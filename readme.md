@@ -2,7 +2,7 @@
 
 > Awesome stuffs about Web Monetization. Learn more, check modules and others tools.
 
-<img src="assets/wm_logo_animated.svg" alt="Logo Web Monetization" align="right" width="20px" />
+<img src="assets/wm_icon_animated.svg" alt="Logo Web Monetization" align="right" width="20px" />
 
 ## Menu
 
