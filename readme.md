@@ -25,11 +25,11 @@
 
 
 
-## About Web Monetization
+## About Web Monetization ![](assets/small_icons/webmonetization.svg)
 
 Web Monetization is a web service that allows you to send money directly in your browser. — If you want you know more, see :
 
-- [Webmonetization.org](https://webmonetization.org/)
+- [Webmonetization.org](https://webmonetization.org/) 
 - [Documentation](https://webmonetization.org/docs/getting-started.html)
 - [How Web Monetization work for paying payments](https://webmonetization.org/docs/sending)
 - [How Web Monetization work for receiving payments](https://webmonetization.org/docs/receiving)
@@ -74,18 +74,47 @@ if (document.monetization) {
 ## Ressources
 ##### Packages 
 
-* [Svelte-monetization : A minimal and lightweight wrapper for the Web Monetization API](https://github.com/sorxrob/svelte-monetization)
-* 
+###### *Any packages/modules and plugins.*
+
+* [svelte-monetization : A minimal and lightweight wrapper for the Web Monetization API](https://github.com/sorxrob/svelte-monetization) ![](assets/small_icons/svelte.png)
+* [monetize.js : An event-driven library to manage and simulate Web Monetization.](https://github.com/sunchayn/monetize.js) ![](assets/small_icons/javascript.png)
+* [types-wm : TypeScript definitions for Web Monetization](https://github.com/dacioromero/types-wm) ![](assets/small_icons/typescript.png)
+* [ngx-monetization : Web Monetization API for Angular !](https://github.com/CDDelta/ngx-monetization) ![](assets/small_icons/angular.png)
+* [react-hook-wm : React hooks for integrating with Web Monetization.](https://github.com/dacioromero/react-hook-wm) ![](assets/small_icons/react.png)
+* [react-monetize: Helpers and hooks to speed up your integration with Web Monetization API ](https://github.com/guidovizoso/react-monetize) ![](assets/small_icons/react.png)
+* [wp-connect-coil : Plugin for applying Coil payment pointer meta tag to WordPress site.](https://wordpress.org/plugins/wp-connect-coil/) ![](assets/small_icons/wordpress.png)
+* [xrptipbot-wordpress-widget : Wordpress Widget based on XRPTIPBOT embed code to donate content creators](https://wordpress.org/plugins/widget-xrptipbot/) ![](assets/small_icons/wordpress.png)
 
 ##### Tutorials 
+
+* [Official **Getting started** from webmonetization.org](https://webmonetization.org/docs/getting-started)
+* [Put exclusive content on your website](https://webmonetization.org/docs/exclusive-content)
+
 ##### Articles
+
+* [Monetizing Content in View, Paying for what you see](https://dev.to/godwinagedah/monetizing-content-in-view-paying-for-what-you-see-462a)
+* [Web Components for the Web Monetization API (serie)](https://dev.to/philnash/web-components-for-the-web-monetization-api-4ed9)
+
 ##### Newsletters
+
+* [Newsletter of grantfortheweb.org](https://www.grantfortheweb.org/signup)
+
 ##### Videos
 ##### Books
 ##### Blogs
 ##### Courses
 ##### Tools
+
+* [Is web monetized : A very simple tool for checking if Web Monetization is enabled](https://github.com/jkga/is-web-monetized)
+
 ##### Community
+
+* [grantfortheweb.org Forum](https://forum.grantfortheweb.org/)
+* [@GrantForTheWeb on Twitter](https://twitter.com/GrantForTheWeb)
+* [@Coil on Twitter](https://twitter.com/Coil)
+* [@CinnamonVideo on Twitter](https://twitter.com/CinnamonVideo)
+* [Web Monetization tag on ![DEV](assets/small_icons/devto.svg)](https://dev.to/t/webmonetization) 
+
 ##### Miscellaneous
 
 ___
