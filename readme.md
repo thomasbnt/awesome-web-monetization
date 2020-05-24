@@ -73,6 +73,10 @@ if (document.monetization) {
 ```
 ## Ressources
 ##### Packages 
+
+* [Svelte-monetization : A minimal and lightweight wrapper for the Web Monetization API](https://github.com/sorxrob/svelte-monetization)
+* 
+
 ##### Tutorials 
 ##### Articles
 ##### Newsletters
