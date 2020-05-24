@@ -12,5 +12,5 @@ assignees: thomasbnt
 
 Check is a Wallet provider and/or for payments
 
-[ ] Wallet Provider
-[ ] Wallet for payements
+- [ ] Wallet Provider
+- [ ] Wallet for payements
