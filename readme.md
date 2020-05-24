@@ -45,6 +45,8 @@ ___
 If you would like to monetize your content, you must have a Wallet and Provider account. See below the platforms that allow you to use them.
 
 
+<details><summary>More details here</summary>
+<p>
 
 | **Wallets** |  |  |  |  |
 |:-----------:|:----------------------------------------------------------:|:------------------------------------------------------------:|:------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------:|
@@ -57,6 +59,10 @@ If you are use already XRP Tipbot, [check here to migrate on Uphold](https://web
 | **Payments** |  |
 |--------------|----------------------------------------------------------------------------|
 | Name | [![Coil](https://webmonetization.org/img/coil_logo.svg)](https://coil.com) |
+</p>
+</details>
+
+
 
 On your webpage, intregate your `monetization` tag on meta
 ```html
