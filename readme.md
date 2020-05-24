@@ -24,6 +24,7 @@
     - [Miscellaneous](#Miscellaneous)
 
 
+
 ## About Web Monetization
 
 Web Monetization is a web service that allows you to send money directly in your browser. — If you want you know more, see :
@@ -34,6 +35,7 @@ Web Monetization is a web service that allows you to send money directly in your
 - [How Web Monetization work for receiving payments](https://webmonetization.org/docs/receiving)
 - [Specifications](https://webmonetization.org/specification.html)
 - [ILP Forum](https://forum.interledger.org/)
+- [Grant For The Web](https://www.grantfortheweb.org/)
 ___
 - [Interledger : Open protocol suite for sending payments across different ledgers](https://interledger.org/)
 - [Coil : Web monetized content in your browser while supporting sites you love in real time.](https://coil.com)
@@ -45,10 +47,13 @@ If you would like to monetize your content, you must have a Wallet and Provider 
 
 
 | **Wallets** |  |  |  |  |
-|-------------|------------------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
-| Name | [![Uphold](https://webmonetization.org/img/uphold_logo.svg)](https://uphold.com) | [![GateHub](https://webmonetization.org/img/gatehub_logo.svg)](https://gatehub.net) | [![Stronghold](https://webmonetization.org/img/stronghold_logo.svg)](https://stronghold.co/real-time-payments#coil) | [New Wallet ? Create a issue !](https://github.com/thomasbnt/awesome-web-monetization/issues) |
+|:-----------:|:----------------------------------------------------------:|:------------------------------------------------------------:|:------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------:|
+| Name | [![Uphold](https://webmonetization.org/img/uphold_logo.svg)](https://uphold.com) | [![GateHub](https://webmonetization.org/img/gatehub_logo.svg)](https://gatehub.net) | [![Stronghold](https://webmonetization.org/img/stronghold_logo.svg)](https://stronghold.co/real-time-payments#coil) | [New Wallet ?<br>Create a issue !](https://github.com/thomasbnt/awesome-web-monetization/issues) |
 | Fees | None | SEPA: 1.00 EUR < 50,000 EUR<br>Wire: $15 min ($150 max) | $3 withdrawal fee |  |
-If you are already use XRP Tipbot, [check here to migrate on Uphold](https://webmonetization.org/docs/xrptipbot).
+If you are use already XRP Tipbot, [check here to migrate on Uphold](https://webmonetization.org/docs/xrptipbot).
+
+
+
 | **Payments** |  |
 |--------------|----------------------------------------------------------------------------|
 | Name | [![Coil](https://webmonetization.org/img/coil_logo.svg)](https://coil.com) |
@@ -77,7 +82,7 @@ if (document.monetization) {
 ##### Tools
 ##### Community
 ##### Miscellaneous
- 
+
 ___
 ## Contribute
 
@@ -88,6 +93,6 @@ You can also contribute to share this repository and Web Monetization with your 
 
 [![License](https://img.shields.io/github/license/thomasbnt/awesome-web-monetization.svg?style=for-the-badge)](https://github.com/thomasbnt/awesome-web-monetization/blob/master/LICENSE)
 
-To the extent possible under law, Thomas Bnt has waived all copyright and
+To the extent possible under law, **Thomas Bnt** has waived all copyright and
 related or neighboring rights to this work.
 
