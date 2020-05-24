@@ -50,13 +50,14 @@ If you would like to monetize your content, you must have a Wallet and Provider 
 |:-----------:|:----------------------------------------------------------:|:------------------------------------------------------------:|:------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------:|
 | Name | [![Uphold](https://webmonetization.org/img/uphold_logo.svg)](https://uphold.com) | [![GateHub](https://webmonetization.org/img/gatehub_logo.svg)](https://gatehub.net) | [![Stronghold](https://webmonetization.org/img/stronghold_logo.svg)](https://stronghold.co/real-time-payments#coil) | [New Wallet ?<br>Create a issue !](https://github.com/thomasbnt/awesome-web-monetization/issues) |
 | Fees | None | SEPA: 1.00 EUR < 50,000 EUR<br>Wire: $15 min ($150 max) | $3 withdrawal fee |  |
-If you are use already XRP Tipbot, [check here to migrate on Uphold](https://webmonetization.org/docs/xrptipbot).
 
+If you are use already XRP Tipbot, [check here to migrate on Uphold](https://webmonetization.org/docs/xrptipbot).
 
 
 | **Payments** |  |
 |--------------|----------------------------------------------------------------------------|
 | Name | [![Coil](https://webmonetization.org/img/coil_logo.svg)](https://coil.com) |
+
 On your webpage, intregate your `monetization` tag on meta
 ```html
 <meta name='monetization' content='$ilp.example.com/123456789'>
