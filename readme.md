@@ -84,6 +84,7 @@ if (document.monetization) {
 * [react-monetize: Helpers and hooks to speed up your integration with Web Monetization API ](https://github.com/guidovizoso/react-monetize) ![](assets/small_icons/react.png)
 * [wp-connect-coil : Plugin for applying Coil payment pointer meta tag to WordPress site.](https://wordpress.org/plugins/wp-connect-coil/) ![](assets/small_icons/wordpress.png)
 * [xrptipbot-wordpress-widget : Wordpress Widget based on XRPTIPBOT embed code to donate content creators](https://wordpress.org/plugins/widget-xrptipbot/) ![](assets/small_icons/wordpress.png)
+* [eleventy-plugin-monetization : An Eleventy plugin to monetize posts and site content](https://github.com/DanCanetti/eleventy-plugin-monetization) ![](assets/small_icons/11ty.png)
 
 ##### Tutorials 
 
