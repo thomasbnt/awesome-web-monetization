@@ -2,7 +2,7 @@
 name: New Wallet
 about: Suggest a new Wallet
 title: "[Wa]"
-labels: Wallet, documentation
+labels: Wallet, ↔ WM repository
 assignees: thomasbnt
 
 ---
