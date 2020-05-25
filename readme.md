@@ -92,6 +92,8 @@ if (document.monetization) {
 * [xrptipbot-wordpress-widget : Wordpress Widget based on XRPTIPBOT embed code to donate content creators](https://wordpress.org/plugins/widget-xrptipbot/) ![](assets/small_icons/wordpress.png)
 * [eleventy-plugin-monetization : An Eleventy plugin to monetize posts and site content](https://github.com/DanCanetti/eleventy-plugin-monetization) ![](assets/small_icons/11ty.png)
 
+* [web-monetized-video : experimenting with web monetisation API](https://github.com/Jasmin2895/web-monetized-video) ![](assets/small_icons/javascript.png)
+
 ##### Tutorials 
 
 * [Official **Getting started** from webmonetization.org](https://webmonetization.org/docs/getting-started)
