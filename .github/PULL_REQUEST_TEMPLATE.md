@@ -15,6 +15,7 @@ Before submitting a Pull Request, please ensure you've done the following:
 - [ ] Adding new(s) ressource(s)
     - Else : 
 	- [ ] Added icon to right of the link 
+	- [ ] Checking if the ressource is not already writed
 - [ ] Update About Web Monetization part
 - [ ] Update asset(s)
 
