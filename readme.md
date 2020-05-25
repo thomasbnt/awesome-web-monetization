@@ -116,6 +116,10 @@ if (document.monetization) {
 
 * [Is web monetized : A very simple tool for checking if Web Monetization is enabled](https://github.com/jkga/is-web-monetized)
 
+* [Paytrackr : Track and manage your micropayments into one place](https://github.com/sorxrob/paytrackr) 
+
+  > PayTrackr is the easiest and safest way to track and manage your micropayments to web monetized websites, having a web monetization provider membership.
+
 ##### Community
 
 * [grantfortheweb.org Forum](https://forum.grantfortheweb.org/)
