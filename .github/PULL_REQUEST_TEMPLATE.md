@@ -16,8 +16,13 @@ Before submitting a Pull Request, please ensure you've done the following:
     - Else : 
 	- [ ] Added icon to right of the link 
 	- [ ] Checking if the ressource is not already writed
+	
 - [ ] Update About Web Monetization part
+
 - [ ] Update asset(s)
+    - Else :
+    - [ ] Height is **16px**
+    - [ ] Format is **png**
 
 ## Description
 <!-- 

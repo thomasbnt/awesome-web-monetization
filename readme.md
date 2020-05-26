@@ -138,6 +138,8 @@ ___
 Contributions welcome ! Read the [contribution guidelines](contributing.md) first.
 You can also contribute to share this repository and Web Monetization with your friends. 😄
 
+If you want add a new small icon, the height must be **16px**. Put in `assets/small_icons/NAME.png`. Format PNG only accepted.
+
 ## License
 
 [![License](https://img.shields.io/github/license/thomasbnt/awesome-web-monetization.svg?style=for-the-badge)](https://github.com/thomasbnt/awesome-web-monetization/blob/master/LICENSE)
