@@ -94,6 +94,8 @@ if (document.monetization) {
 
 * [web-monetized-video : experimenting with web monetisation API](https://github.com/Jasmin2895/web-monetized-video) ![](assets/small_icons/javascript.png)
 
+* [web-monetization-proxy : Simple Go proxy for injecting Web Monetization meta tags.](https://github.com/tcdowney/web-monetization-proxy) ![](assets/small_icons/go.png)
+
 ##### Tutorials 
 
 * [Official **Getting started** from webmonetization.org](https://webmonetization.org/docs/getting-started)
