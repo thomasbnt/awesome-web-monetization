@@ -92,9 +92,8 @@ if (document.monetization) {
 * [xrptipbot-wordpress-widget : Wordpress Widget based on XRPTIPBOT embed code to donate content creators](https://wordpress.org/plugins/widget-xrptipbot/) ![](assets/small_icons/wordpress.png)
 * [eleventy-plugin-monetization : An Eleventy plugin to monetize posts and site content](https://github.com/DanCanetti/eleventy-plugin-monetization) ![](assets/small_icons/11ty.png)
 * [web-monetization-components : A suite of web components you can use on your web monetized sites](https://github.com/philnash/web-monetization-components) ![](assets/small_icons/javascript.png)
-
+* [revshare : A JS library for revenue sharing](https://github.com/kewbish/revshare) ![](assets/small_icons/javascript.png)
 * [web-monetized-video : experimenting with web monetisation API](https://github.com/Jasmin2895/web-monetized-video) ![](assets/small_icons/javascript.png)
-
 * [web-monetization-proxy : Simple Go proxy for injecting Web Monetization meta tags.](https://github.com/tcdowney/web-monetization-proxy) ![](assets/small_icons/go.png)
 
 ##### Tutorials 
