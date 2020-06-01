@@ -88,7 +88,7 @@ if (document.monetization) {
 * [ngx-monetization : Web Monetization API for Angular !](https://github.com/CDDelta/ngx-monetization) ![](assets/small_icons/angular.png)
 * [react-hook-wm : React hooks for integrating with Web Monetization.](https://github.com/dacioromero/react-hook-wm) ![](assets/small_icons/react.png)
 * [react-monetize: Helpers and hooks to speed up your integration with Web Monetization API ](https://github.com/guidovizoso/react-monetize) ![](assets/small_icons/react.png)
-* [ep_monetization : Plugin for applying payment pointer meta tag to Etherpad site](https://github.com/ISNIT0/ep_monetization)
+* [ep_monetization : Plugin for applying payment pointer meta tag to Etherpad site](https://github.com/ISNIT0/ep_monetization) ![](assets/small_icons/javascript.png)
 * [wp-connect-coil : Plugin for applying Coil payment pointer meta tag to WordPress site.](https://wordpress.org/plugins/wp-connect-coil/) ![](assets/small_icons/wordpress.png)
 * [xrptipbot-wordpress-widget : Wordpress Widget based on XRPTIPBOT embed code to donate content creators](https://wordpress.org/plugins/widget-xrptipbot/) ![](assets/small_icons/wordpress.png)
 * [eleventy-plugin-monetization : An Eleventy plugin to monetize posts and site content](https://github.com/DanCanetti/eleventy-plugin-monetization) ![](assets/small_icons/11ty.png)
