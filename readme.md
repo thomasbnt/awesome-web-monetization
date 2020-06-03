@@ -96,6 +96,7 @@ if (document.monetization) {
 * [revshare : A JS library for revenue sharing](https://github.com/kewbish/revshare) ![](assets/small_icons/javascript.png)
 * [web-monetized-video : experimenting with web monetisation API](https://github.com/Jasmin2895/web-monetized-video) ![](assets/small_icons/javascript.png)
 * [web-monetization-proxy : Simple Go proxy for injecting Web Monetization meta tags.](https://github.com/tcdowney/web-monetization-proxy) ![](assets/small_icons/go.png)
+* [gridsome-plugin-monetization : Web monetization for Gridsome](https://github.com/Sergix/gridsome-plugin-monetization) ![](assets/small_icons/gridsome.png)
 
 ##### Tutorials 
 
