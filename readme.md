@@ -97,6 +97,7 @@ if (document.monetization) {
 * [web-monetized-video : experimenting with web monetisation API](https://github.com/Jasmin2895/web-monetized-video) ![](assets/small_icons/javascript.png)
 * [web-monetization-proxy : Simple Go proxy for injecting Web Monetization meta tags.](https://github.com/tcdowney/web-monetization-proxy) ![](assets/small_icons/go.png)
 * [gridsome-plugin-monetization : Web monetization for Gridsome](https://github.com/Sergix/gridsome-plugin-monetization) ![](assets/small_icons/gridsome.png)
+* [vuepress-plugin-web-monetization : Adds the web-monetization metatag to your VuePress website](https://github.com/spekulatius/vuepress-plugin-web-monetization) ![](assets/small_icons/vuejs.png)
 
 ##### Tutorials 
 
