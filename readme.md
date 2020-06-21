@@ -85,26 +85,6 @@ if (document.monetization) {
 
 #### *Any packages/modules and plugins*
 
-* [svelte-monetization : A minimal and lightweight wrapper for the Web Monetization API](https://github.com/sorxrob/svelte-monetization) ![](assets/small_icons/svelte.png)
-* [monetize.js : An event-driven library to manage and simulate Web Monetization.](https://github.com/sunchayn/monetize.js) ![](assets/small_icons/javascript.png)
-* [types-wm : TypeScript definitions for Web Monetization](https://github.com/dacioromero/types-wm) ![](assets/small_icons/typescript.png)
-* [ngx-monetization : Web Monetization API for Angular !](https://github.com/CDDelta/ngx-monetization) ![](assets/small_icons/angular.png)
-* [react-hook-wm : React hooks for integrating with Web Monetization.](https://github.com/dacioromero/react-hook-wm) ![](assets/small_icons/react.png)
-* [react-monetize: Helpers and hooks to speed up your integration with Web Monetization API ](https://github.com/guidovizoso/react-monetize) ![](assets/small_icons/react.png)
-* [ep_monetization : Plugin for applying payment pointer meta tag to Etherpad site](https://github.com/ISNIT0/ep_monetization) ![](assets/small_icons/javascript.png)
-* [wp-connect-coil : Plugin for applying Coil payment pointer meta tag to WordPress site.](https://wordpress.org/plugins/wp-connect-coil/) ![](assets/small_icons/wordpress.png)
-* [xrptipbot-wordpress-widget : Wordpress Widget based on XRPTIPBOT embed code to donate content creators](https://wordpress.org/plugins/widget-xrptipbot/) ![](assets/small_icons/wordpress.png)
-* [eleventy-plugin-monetization : An Eleventy plugin to monetize posts and site content](https://github.com/DanCanetti/eleventy-plugin-monetization) ![](assets/small_icons/11ty.png)
-* [web-monetization-components : A suite of web components you can use on your web monetized sites](https://github.com/philnash/web-monetization-components) ![](assets/small_icons/javascript.png)
-* [revshare : A JS library for revenue sharing](https://github.com/kewbish/revshare) ![](assets/small_icons/javascript.png)
-* [web-monetized-video : experimenting with web monetisation API](https://github.com/Jasmin2895/web-monetized-video) ![](assets/small_icons/javascript.png)
-* [web-monetization-proxy : Simple Go proxy for injecting Web Monetization meta tags.](https://github.com/tcdowney/web-monetization-proxy) ![](assets/small_icons/go.png)
-* [gridsome-plugin-monetization : Web monetization for Gridsome](https://github.com/Sergix/gridsome-plugin-monetization) ![](assets/small_icons/gridsome.png)
-* [vuepress-plugin-web-monetization : Adds the web-monetization metatag to your VuePress website](https://github.com/spekulatius/vuepress-plugin-web-monetization) ![](assets/small_icons/vuejs.png)
-* [jekyll-web_monetization : A Jekyll plugin to add Web Monetization API payment pointers to your site](https://github.com/philnash/jekyll-web_monetization) ![](assets/small_icons/jekyll.png)
-* [monetization : A wrapper around the Web Monetization API to monetize apps.](https://github.com/KNawm/monetization) ![](assets/small_icons/dart.png) 
-
-
 - [svelte-monetization : A minimal and lightweight wrapper for the Web Monetization API](https://github.com/sorxrob/svelte-monetization) ![](assets/small_icons/svelte.png)
 - [monetize.js : An event-driven library to manage and simulate Web Monetization.](https://github.com/sunchayn/monetize.js) ![](assets/small_icons/javascript.png)
 - [types-wm : TypeScript definitions for Web Monetization](https://github.com/dacioromero/types-wm) ![](assets/small_icons/typescript.png)
@@ -121,6 +101,8 @@ if (document.monetization) {
 - [web-monetization-proxy : Simple Go proxy for injecting Web Monetization meta tags.](https://github.com/tcdowney/web-monetization-proxy) ![](assets/small_icons/go.png)
 - [gridsome-plugin-monetization : Web monetization for Gridsome](https://github.com/Sergix/gridsome-plugin-monetization) ![](assets/small_icons/gridsome.png)
 - [vuepress-plugin-web-monetization : Adds the web-monetization metatag to your VuePress website](https://github.com/spekulatius/vuepress-plugin-web-monetization) ![](assets/small_icons/vuejs.png)
+- [jekyll-web_monetization : A Jekyll plugin to add Web Monetization API payment pointers to your site](https://github.com/philnash/jekyll-web_monetization) ![](/home/thomasbnt/Documents/Lab/awesome-web-monetization/assets/small_icons/jekyll.png)
+- [monetization : A wrapper around the Web Monetization API to monetize apps.](https://github.com/KNawm/monetization) ![](assets/small_icons/dart.png) 
 
 ### Tutorials
 
@@ -129,9 +111,6 @@ if (document.monetization) {
 
 ### Articles
 
-* [Monetizing Content in View, Paying for what you see](https://dev.to/godwinagedah/monetizing-content-in-view-paying-for-what-you-see-462a)
-* [Web Components for the Web Monetization API (serie)](https://dev.to/philnash/web-components-for-the-web-monetization-api-4ed9)
-* [Brief History of Web Monetization](https://dev.to/hammertoe/brief-history-of-web-monetization-5ech)
 - [Monetizing Content in View, Paying for what you see](https://dev.to/godwinagedah/monetizing-content-in-view-paying-for-what-you-see-462a)
 - [Web Components for the Web Monetization API (serie)](https://dev.to/philnash/web-components-for-the-web-monetization-api-4ed9)
 
@@ -151,11 +130,10 @@ if (document.monetization) {
 
   > PayTrackr is the easiest and safest way to track and manage your micropayments to web monetized websites, having a web monetization provider membership.
 
-* [Akita : A browser extension that gives you insight into your involvement with Web Monetization.](https://github.com/dog-s/akita)
+- [Akita : A browser extension that gives you insight into your involvement with Web Monetization.](https://github.com/dog-s/akita)
 
   > Akita presents your top visited monetized sites, how much time you’re spending on them, and how much you're contributing (or could contribute) to them.
 
-##### Community
 ### Community
 
 - [grantfortheweb.org Forum](https://forum.grantfortheweb.org/)
