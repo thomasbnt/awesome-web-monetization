@@ -98,6 +98,10 @@ if (document.monetization) {
 * [web-monetization-proxy : Simple Go proxy for injecting Web Monetization meta tags.](https://github.com/tcdowney/web-monetization-proxy) ![](assets/small_icons/go.png)
 * [gridsome-plugin-monetization : Web monetization for Gridsome](https://github.com/Sergix/gridsome-plugin-monetization) ![](assets/small_icons/gridsome.png)
 * [vuepress-plugin-web-monetization : Adds the web-monetization metatag to your VuePress website](https://github.com/spekulatius/vuepress-plugin-web-monetization) ![](assets/small_icons/vuejs.png)
+* [jekyll-web_monetization : A Jekyll plugin to add Web Monetization API payment pointers to your site](https://github.com/philnash/jekyll-web_monetization) ![](assets/small_icons/jekyll.png)
+* [monetization : A wrapper around the Web Monetization API to monetize apps.](https://github.com/KNawm/monetization) ![](assets/small_icons/dart.png) 
+
+
 
 ##### Tutorials 
 
@@ -108,6 +112,7 @@ if (document.monetization) {
 
 * [Monetizing Content in View, Paying for what you see](https://dev.to/godwinagedah/monetizing-content-in-view-paying-for-what-you-see-462a)
 * [Web Components for the Web Monetization API (serie)](https://dev.to/philnash/web-components-for-the-web-monetization-api-4ed9)
+* [Brief History of Web Monetization](https://dev.to/hammertoe/brief-history-of-web-monetization-5ech)
 
 ##### Newsletters
 
@@ -124,6 +129,10 @@ if (document.monetization) {
 * [Paytrackr : Track and manage your micropayments into one place](https://github.com/sorxrob/paytrackr) 
 
   > PayTrackr is the easiest and safest way to track and manage your micropayments to web monetized websites, having a web monetization provider membership.
+
+* [Akita : A browser extension that gives you insight into your involvement with Web Monetization.](https://github.com/dog-s/akita)
+
+  > Akita presents your top visited monetized sites, how much time you’re spending on them, and how much you're contributing (or could contribute) to them.
 
 ##### Community
 
