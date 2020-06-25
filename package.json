@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "awesome-lint": "^0.13.0"
+  },
+  "scripts": {
+    "test": "awesome-lint"
+  }
+}
