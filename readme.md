@@ -132,7 +132,7 @@ if (document.monetization) {
 
 - [Akita : A browser extension that gives you insight into your involvement with Web Monetization.](https://github.com/dog-s/akita)
 
-  > Akita presents your top visited monetized sites, how much time you’re spending on them, and how much you're contributing (or could contribute) to them.
+  > Akita presents your top visited monetized sites, how much time you're spending on them, and how much you're contributing (or could contribute) to them.
 
 - [Open Monetization Wallet : Tools for managing your vanity Web Monetization wallet](https://github.com/signalnerve/openmonetizationwallet)
 
