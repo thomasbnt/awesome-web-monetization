@@ -134,6 +134,17 @@ if (document.monetization) {
 
   > Akita presents your top visited monetized sites, how much time you’re spending on them, and how much you're contributing (or could contribute) to them.
 
+- [Open Monetization Wallet : Tools for managing your vanity Web Monetization wallet](https://github.com/signalnerve/openmonetizationwallet)
+
+  > Open Monetization Wallet (OMW) makes it easier to accept payments with the Web Monetization API at scale. Some features:
+  >
+  > - Custom wallet URLs: own your own "Payment Pointer", e.g. $wallet.signalnerve.com, instead of $pay.stronghold.co/abcdef123
+  > - Change between wallets/providers with no downtime
+  > - Logs of incoming payment requests
+  > - Revenue sharing between multiple wallets, e.g. for multiple team members
+  > - Infinitely scalable with serverless technology
+  > - Free and open-source
+
 ### Community
 
 - [grantfortheweb.org Forum](https://forum.grantfortheweb.org/)
