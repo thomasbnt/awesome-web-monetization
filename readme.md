@@ -164,10 +164,3 @@ You can also contribute to share this repository and Web Monetization with your 
 
 If you want add a new small icon, the height must be **16px**. Put in `assets/small_icons/NAME.png`. Format PNG only accepted.
 
-## License
-
-[![License](https://img.shields.io/github/license/thomasbnt/awesome-web-monetization.svg?style=for-the-badge)](https://github.com/thomasbnt/awesome-web-monetization/blob/master/LICENSE)
-
-To the extent possible under law, **Thomas Bnt** has waived all copyright and
-related or neighboring rights to this work.
-
