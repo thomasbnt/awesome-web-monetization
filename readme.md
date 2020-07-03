@@ -90,38 +90,38 @@ if (document.monetization) {
 
 #### *Any packages/modules and plugins*
 
-- [svelte-monetization](https://github.com/sorxrob/svelte-monetization) - A minimal and lightweight wrapper for the Web Monetization API ![](assets/small_icons/svelte.png)
-- [monetize.js](https://github.com/sunchayn/monetize.js) - An event-driven library to manage and simulate Web Monetization ![](assets/small_icons/javascript.png)
+- [svelte-monetization](https://github.com/sorxrob/svelte-monetization) - A minimal and lightweight wrapper for the Web Monetization API. ![](assets/small_icons/svelte.png)
+- [monetize.js](https://github.com/sunchayn/monetize.js) - An event-driven library to manage and simulate Web Monetization. ![](assets/small_icons/javascript.png)
 - [types-wm](https://github.com/dacioromero/types-wm) - TypeScript definitions for Web Monetization ![](assets/small_icons/typescript.png)
-- [ngx-monetization](https://github.com/CDDelta/ngx-monetization) - Web Monetization API for Angular ! ![](assets/small_icons/angular.png)
-- [react-hook-wm](https://github.com/dacioromero/react-hook-wm) - React hooks for integrating with Web Monetization ![](assets/small_icons/react.png)
-- [react-monetize](https://github.com/guidovizoso/react-monetize) - Helpers and hooks to speed up your integration with Web Monetization API ![](assets/small_icons/react.png)
-- [ep_monetization](https://github.com/ISNIT0/ep_monetization) - Plugin for applying payment pointer meta tag to Etherpad site ![](assets/small_icons/javascript.png)
-- [wp-connect-coil](https://wordpress.org/plugins/wp-connect-coil/) - Plugin for applying Coil payment pointer meta tag to WordPress site ![](assets/small_icons/wordpress.png)
-- [xrptipbot-wordpress-widget](https://wordpress.org/plugins/widget-xrptipbot/) - Wordpress Widget based on XRPTIPBOT embed code to donate content creators ![](assets/small_icons/wordpress.png)
-- [eleventy-plugin-monetization](https://github.com/DanCanetti/eleventy-plugin-monetization) - An Eleventy plugin to monetize posts and site content ![](assets/small_icons/11ty.png)
-- [web-monetization-components](https://github.com/philnash/web-monetization-components) - A collection of web components you can use on your web monetized websites ![](assets/small_icons/javascript.png)
-- [revshare](https://github.com/kewbish/revshare) - A JS library for revenue sharing ![](assets/small_icons/javascript.png)
-- [web-monetized-video](https://github.com/Jasmin2895/web-monetized-video) - experimenting with web monetisation API ![](assets/small_icons/javascript.png)
-- [web-monetization-proxy](https://github.com/tcdowney/web-monetization-proxy) - Simple Go proxy for injecting Web Monetization meta tags ![](assets/small_icons/go.png)
-- [gridsome-plugin-monetization](https://github.com/Sergix/gridsome-plugin-monetization) - Web monetization for Gridsome ![](assets/small_icons/gridsome.png)
-- [vuepress-plugin-web-monetization](https://github.com/spekulatius/vuepress-plugin-web-monetization) - Adds the web-monetization metatag to your VuePress website ![](assets/small_icons/vuejs.png)
-- [jekyll-web_monetization](https://github.com/philnash/jekyll-web_monetization) - A Jekyll plugin to add Web Monetization API payment pointers to your site ![](assets/small_icons/jekyll.png)
-- [monetization](https://github.com/KNawm/monetization) - A wrapper around the Web Monetization API to monetize apps ![](assets/small_icons/dart.png) 
+- [ngx-monetization](https://github.com/CDDelta/ngx-monetization) - Web Monetization API for Angular. ![](assets/small_icons/angular.png)
+- [react-hook-wm](https://github.com/dacioromero/react-hook-wm) - React hooks for integrating with Web Monetization. ![](assets/small_icons/react.png)
+- [react-monetize](https://github.com/guidovizoso/react-monetize) - Helpers and hooks to speed up your integration with Web Monetization API. ![](assets/small_icons/react.png)
+- [ep_monetization](https://github.com/ISNIT0/ep_monetization) - Plugin for applying payment pointer meta tag to Etherpad site. ![](assets/small_icons/javascript.png)
+- [wp-connect-coil](https://wordpress.org/plugins/wp-connect-coil/) - Plugin for applying Coil payment pointer meta tag to WordPress site. ![](assets/small_icons/wordpress.png)
+- [xrptipbot-wordpress-widget](https://wordpress.org/plugins/widget-xrptipbot/) - Wordpress Widget based on XRPTIPBOT embed code to donate content creators. ![](assets/small_icons/wordpress.png)
+- [eleventy-plugin-monetization](https://github.com/DanCanetti/eleventy-plugin-monetization) - An Eleventy plugin to monetize posts and site content. ![](assets/small_icons/11ty.png)
+- [web-monetization-components](https://github.com/philnash/web-monetization-components) - A collection of web components you can use on your web monetized websites. ![](assets/small_icons/javascript.png)
+- [revshare](https://github.com/kewbish/revshare) - A JS library for revenue sharing. ![](assets/small_icons/javascript.png)
+- [web-monetized-video](https://github.com/Jasmin2895/web-monetized-video) - experimenting with web monetisation API. ![](assets/small_icons/javascript.png)
+- [web-monetization-proxy](https://github.com/tcdowney/web-monetization-proxy) - Simple Go proxy for injecting Web Monetization meta tags. ![](assets/small_icons/go.png)
+- [gridsome-plugin-monetization](https://github.com/Sergix/gridsome-plugin-monetization) - Web monetization for Gridsome. ![](assets/small_icons/gridsome.png)
+- [vuepress-plugin-web-monetization](https://github.com/spekulatius/vuepress-plugin-web-monetization) - Adds the web-monetization metatag to your VuePress website. ![](assets/small_icons/vuejs.png)
+- [jekyll-web_monetization](https://github.com/philnash/jekyll-web_monetization) - A Jekyll plugin to add Web MonetizationAPI payment pointers to your site. ![](assets/small_icons/jekyll.png)
+- [monetization](https://github.com/KNawm/monetization) - A wrapper around the Web Monetization API to monetize apps. ![](assets/small_icons/dart.png) 
 
 ### Tutorials
 
-- [Official "Getting started" from webmonetization.org](https://webmonetization.org/docs/getting-started)
-- [Put exclusive content on your website](https://webmonetization.org/docs/exclusive-content)
+- [Official "Getting started" from webmonetization.org](https://webmonetization.org/docs/getting-started).
+- [Put exclusive content on your website](https://webmonetization.org/docs/exclusive-content).
 
 ### Articles
 
-- [Monetizing Content in View, Paying for what you see](https://dev.to/godwinagedah/monetizing-content-in-view-paying-for-what-you-see-462a)
-- [Web Components for the Web Monetization API (serie)](https://dev.to/philnash/web-components-for-the-web-monetization-api-4ed9)
+- [Monetizing Content in View, Paying for what you see](https://dev.to/godwinagedah/monetizing-content-in-view-paying-for-what-you-see-462a).
+- [Web Components for the Web Monetization API (serie)](https://dev.to/philnash/web-components-for-the-web-monetization-api-4ed9).
 
 ### Newsletters
 
-- [Newsletter of grantfortheweb.org](https://www.grantfortheweb.org/signup)
+- [Newsletter of grantfortheweb.org](https://www.grantfortheweb.org/signup).
 
 ### Videos
 ### Books
@@ -129,17 +129,17 @@ if (document.monetization) {
 ### Courses
 ### Tools
 
-- [Is web monetized](https://github.com/jkga/is-web-monetized) - A very simple tool for checking if Web Monetization is enabled
+- [Is web monetized](https://github.com/jkga/is-web-monetized) - A very simple tool for checking if Web Monetization is enabled.
 
-- [Paytrackr](https://github.com/sorxrob/paytrackr) - Track and manage your micropayments into one place
+- [Paytrackr](https://github.com/sorxrob/paytrackr) - Track and manage your micropayments into one place.
 
   > PayTrackr is the easiest and safest way to track and manage your micropayments to web monetized websites, having a web monetization provider membership.
 
-- [Akita](https://github.com/dog-s/akita) - A browser extension that gives you insight into your involvement with Web Monetization
+- [Akita](https://github.com/dog-s/akita) - A browser extension that gives you insight into your involvement with Web Monetization.
 
   > Akita presents your top visited monetized sites, how much time you're spending on them, and how much you're contributing (or could contribute) to them.
 
-- [Open Monetization Wallet](https://github.com/signalnerve/openmonetizationwallet) - Tools for managing your vanity Web Monetization wallet
+- [Open Monetization Wallet](https://github.com/signalnerve/openmonetizationwallet) - Tools for managing your vanity Web Monetization wallet.
 
   > Open Monetization Wallet (OMW) makes it easier to accept payments with the Web Monetization API at scale. Some features:
   >
