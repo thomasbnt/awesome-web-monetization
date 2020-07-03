@@ -126,15 +126,15 @@ if (document.monetization) {
 
 - [Is web monetized : A very simple tool for checking if Web Monetization is enabled](https://github.com/jkga/is-web-monetized)
 
-- [Paytrackr : Track and manage your micropayments into one place](https://github.com/sorxrob/paytrackr)
+- [Paytrackr](https://github.com/sorxrob/paytrackr) - Track and manage your micropayments into one place
 
   > PayTrackr is the easiest and safest way to track and manage your micropayments to web monetized websites, having a web monetization provider membership.
 
-- [Akita : A browser extension that gives you insight into your involvement with Web Monetization.](https://github.com/dog-s/akita)
+- [Akita](https://github.com/dog-s/akita) - A browser extension that gives you insight into your involvement with Web Monetization
 
   > Akita presents your top visited monetized sites, how much time you're spending on them, and how much you're contributing (or could contribute) to them.
 
-- [Open Monetization Wallet : Tools for managing your vanity Web Monetization wallet](https://github.com/signalnerve/openmonetizationwallet)
+- [Open Monetization Wallet](https://github.com/signalnerve/openmonetizationwallet) - Tools for managing your vanity Web Monetization wallet
 
   > Open Monetization Wallet (OMW) makes it easier to accept payments with the Web Monetization API at scale. Some features:
   >
@@ -147,7 +147,7 @@ if (document.monetization) {
 
 ### Community
 
-- [grantfortheweb.org Forum](https://forum.grantfortheweb.org/)
+- [grantfortheweb.org forum](https://forum.grantfortheweb.org/)
 - [@GrantForTheWeb on Twitter](https://twitter.com/GrantForTheWeb)
 - [@Coil on Twitter](https://twitter.com/Coil)
 - [@CinnamonVideo on Twitter](https://twitter.com/CinnamonVideo)
