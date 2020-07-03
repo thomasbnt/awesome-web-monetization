@@ -6,20 +6,25 @@
 
 ## Contents
 
-- [About Web Monetization](#about-web-monetization)
-- [How to start monetize my website](#how-to-start-monetize-my-website)
-- [Resources](#resources)
-  - [Packages](#packages)
-  - [Tutorials](#tutorials)
-  - [Articles](#articles)
-  - [Newsletters](#newsletters)
-  - [Videos](#videos)
-  - [Books](#books)
-  - [Blogs](#blogs)
-  - [Courses](#courses)
-  - [Tools](#tools)
-  - [Community](#community)
-  - [Miscellaneous](#miscellaneous)
+- [Awesome Web Monetization ![Awesome](https://awesome.re)](#awesome-web-monetization-img-srchttpsawesomerebadge-flat2svg-altawesome)
+  - [Contents](#contents)
+  - [About Web Monetization](#about-web-monetization)
+  - [- Grant For The Web](#ulligrant-for-the-webliul)
+  - [How to start monetize my website](#how-to-start-monetize-my-website)
+  - [Resources](#resources)
+    - [Packages](#packages)
+      - [*Any packages/modules and plugins*](#any-packagesmodules-and-plugins)
+    - [Tutorials](#tutorials)
+    - [Articles](#articles)
+    - [Newsletters](#newsletters)
+    - [Videos](#videos)
+    - [Books](#books)
+    - [Blogs](#blogs)
+    - [Courses](#courses)
+    - [Tools](#tools)
+    - [Community](#community)
+    - [Miscellaneous](#miscellaneous)
+  - [Contribute](#contribute)
 
 ## About Web Monetization
 
@@ -124,7 +129,7 @@ if (document.monetization) {
 ### Courses
 ### Tools
 
-- [Is web monetized : A very simple tool for checking if Web Monetization is enabled](https://github.com/jkga/is-web-monetized)
+- [Is web monetized](https://github.com/jkga/is-web-monetized) - A very simple tool for checking if Web Monetization is enabled
 
 - [Paytrackr](https://github.com/sorxrob/paytrackr) - Track and manage your micropayments into one place
 
