@@ -102,21 +102,21 @@ if (document.monetization) {
 - [gridsome-plugin-monetization](https://github.com/Sergix/gridsome-plugin-monetization) - Web monetization for Gridsome. ![](assets/small_icons/gridsome.png)
 - [vuepress-plugin-web-monetization](https://github.com/spekulatius/vuepress-plugin-web-monetization) - Adds the web-monetization metatag to your VuePress website. ![](assets/small_icons/vuejs.png)
 - [jekyll-web_monetization](https://github.com/philnash/jekyll-web_monetization) - A Jekyll plugin to add Web MonetizationAPI payment pointers to your site. ![](assets/small_icons/jekyll.png)
-- [monetization](https://github.com/KNawm/monetization) - A wrapper around the Web Monetization API to monetize apps. ![](assets/small_icons/dart.png) 
+- [Monetization](https://github.com/KNawm/monetization) - A wrapper around the Web Monetization API to monetize apps. ![](assets/small_icons/dart.png) 
 
 ### Tutorials
 
-- [Official "Getting started" from webmonetization.org](https://webmonetization.org/docs/getting-started).
-- [Put exclusive content on your website](https://webmonetization.org/docs/exclusive-content).
+- [Getting started](https://webmonetization.org/docs/getting-started) - Official documents from webmonetization.org.
+- [Exclusive content](https://webmonetization.org/docs/exclusive-content) - Put exclusive content on your website.
 
 ### Articles
 
-- [Monetizing Content in View, Paying for what you see](https://dev.to/godwinagedah/monetizing-content-in-view-paying-for-what-you-see-462a).
-- [Web Components for the Web Monetization API (serie)](https://dev.to/philnash/web-components-for-the-web-monetization-api-4ed9).
+- [Monetizing Content in View](https://dev.to/godwinagedah/monetizing-content-in-view-paying-for-what-you-see-462a) - Paying for what you see.
+- [Web Components](https://dev.to/philnash/web-components-for-the-web-monetization-api-4ed9) - For the Web Monetization API (serie).
 
 ### Newsletters
 
-- [Newsletter of grantfortheweb.org](https://www.grantfortheweb.org/signup).
+- [Newsletter of grantfortheweb.org](https://www.grantfortheweb.org/signup) - Sign up for email updates.
 
 ### Videos
 ### Books
