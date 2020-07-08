@@ -32,7 +32,9 @@ Web Monetization is a web service that allows you to send money directly in your
 - [Specifications](https://webmonetization.org/specification.html)
 - [ILP Forum](https://forum.interledger.org/)
 - [Grant For The Web](https://www.grantfortheweb.org/)
+
 ---
+
 - [Interledger : Open protocol suite for sending payments across different ledgers](https://interledger.org/)
 - [Coil : Web monetized content in your browser while supporting sites you love in real time.](https://coil.com)
 
@@ -44,46 +46,50 @@ If you would like to monetize your content, you must have a Wallet and Provider 
 <p>
 
 | **Wallets** |                                  |                                                         |                                              |                                                      |
-|:-----------:|:--------------------------------:|:-------------------------------------------------------:|:--------------------------------------------:|:----------------------------------------------------:|
-| Name        | [![Uphold][uphold-logo]][uphold] | [![GateHub][gatehub-logo]][gatehub]                     | [![Stronghold][stronghold-logo]][stronghold] | [New Wallet ?<br>Create a issue !][new-wallet-issue] |
-| Fees        | None                             | SEPA: 1.00 EUR < 50,000 EUR<br>Wire: $15 min ($150 max) | $3 withdrawal fee                            |                                                      |
+| :---------: | :------------------------------: | :-----------------------------------------------------: | :------------------------------------------: | :--------------------------------------------------: |
+|    Name     | [![Uphold][uphold-logo]][uphold] |           [![GateHub][gatehub-logo]][gatehub]           | [![Stronghold][stronghold-logo]][stronghold] | [New Wallet ?<br>Create a issue !][new-wallet-issue] |
+|    Fees     |               None               | SEPA: 1.00 EUR < 50,000 EUR<br>Wire: $15 min ($150 max) |              \$3 withdrawal fee              |                                                      |
 
 [new-wallet-issue]: https://github.com/thomasbnt/awesome-web-monetization/issues/new?assignees=thomasbnt&labels=Wallet%2C+%E2%86%94+WM+repository&template=new-wallet.md&title=%5BWa%5D
-
 [gatehub]: https://gatehub.net
 [gatehub-logo]: https://webmonetization.org/img/gatehub_logo.svg
-
 [stronghold]: https://stronghold.co/real-time-payments#coil
 [stronghold-logo]: https://webmonetization.org/img/stronghold_logo.svg
-
 [uphold]: https://uphold.com
 [uphold-logo]: https://webmonetization.org/img/uphold_logo.svg
 
 If you are use already XRP Tipbot, [check here to migrate on Uphold](https://webmonetization.org/docs/xrptipbot).
 
-| **Payments**  |                                                                            |
-|---------------|----------------------------------------------------------------------------|
-| Name          | [![Coil](https://webmonetization.org/img/coil_logo.svg)](https://coil.com) |
+| **Payments** |                                                                            |
+| ------------ | -------------------------------------------------------------------------- |
+| Name         | [![Coil](https://webmonetization.org/img/coil_logo.svg)](https://coil.com) |
+
 </p>
 </details>
 
 On your webpage, intregate your `monetization` tag on meta
+
 ```html
-<meta name='monetization' content='$ilp.example.com/123456789'>
+<meta name="monetization" content="$ilp.example.com/123456789" />
 ```
+
 and detect if `monetization` is possible, then work
 
 ```js
 if (document.monetization) {
-    document.monetization.addEventListener('monetizationstart', () => {
-        console.log("🎉 Awesome ! You use Web Monetization.\nMore information https://webmonetization.org")
-    })
+  document.monetization.addEventListener("monetizationstart", () => {
+    console.log(
+      "🎉 Awesome ! You use Web Monetization.\nMore information https://webmonetization.org"
+    );
+  });
 }
 ```
+
 ## Resources
+
 ### Packages
 
-#### *Any packages/modules and plugins*
+#### _Any packages/modules and plugins_
 
 - [svelte-monetization](https://github.com/sorxrob/svelte-monetization) - A minimal and lightweight wrapper for the Web Monetization API. ![](assets/small_icons/svelte.png)
 - [monetize.js](https://github.com/sunchayn/monetize.js) - An event-driven library to manage and simulate Web Monetization. ![](assets/small_icons/javascript.png)
@@ -102,7 +108,8 @@ if (document.monetization) {
 - [gridsome-plugin-monetization](https://github.com/Sergix/gridsome-plugin-monetization) - Web monetization for Gridsome. ![](assets/small_icons/gridsome.png)
 - [vuepress-plugin-web-monetization](https://github.com/spekulatius/vuepress-plugin-web-monetization) - Adds the web-monetization metatag to your VuePress website. ![](assets/small_icons/vuejs.png)
 - [jekyll-web_monetization](https://github.com/philnash/jekyll-web_monetization) - A Jekyll plugin to add Web MonetizationAPI payment pointers to your site. ![](assets/small_icons/jekyll.png)
-- [Monetization](https://github.com/KNawm/monetization) - A wrapper around the Web Monetization API to monetize apps. ![](assets/small_icons/dart.png) 
+- [Monetization](https://github.com/KNawm/monetization) - A wrapper around the Web Monetization API to monetize apps. ![](assets/small_icons/dart.png)
+- [react-webmonetization-meta](https://github.com/uchibeke/react-webmonetization-meta) - A Web Monetization meta tag manager for React. ![](assets/small_icons/react.png)
 
 ### Tutorials
 
@@ -119,9 +126,13 @@ if (document.monetization) {
 - [Newsletter of grantfortheweb.org](https://www.grantfortheweb.org/signup) - Sign up for email updates.
 
 ### Videos
+
 ### Books
+
 ### Blogs
+
 ### Courses
+
 ### Tools
 
 - [Is web monetized](https://github.com/jkga/is-web-monetized) - A very simple tool for checking if Web Monetization is enabled.
@@ -163,4 +174,3 @@ Contributions welcome ! Read the [contribution guidelines](contributing.md) firs
 You can also contribute to share this repository and Web Monetization with your friends. 😄
 
 If you want add a new small icon, the height must be **16px**. Put in `assets/small_icons/NAME.png`. Format PNG only accepted.
-
