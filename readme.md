@@ -13,13 +13,8 @@
   - [Tutorials](#tutorials)
   - [Articles](#articles)
   - [Newsletters](#newsletters)
-  - [Videos](#videos)
-  - [Books](#books)
-  - [Blogs](#blogs)
-  - [Courses](#courses)
   - [Tools](#tools)
   - [Community](#community)
-  - [Miscellaneous](#miscellaneous)
 
 ## About Web Monetization
 
@@ -125,13 +120,6 @@ if (document.monetization) {
 
 - [Newsletter of grantfortheweb.org](https://www.grantfortheweb.org/signup) - Sign up for email updates.
 
-### Videos
-
-### Books
-
-### Blogs
-
-### Courses
 
 ### Tools
 
@@ -164,7 +152,6 @@ if (document.monetization) {
 - [@CinnamonVideo on Twitter](https://twitter.com/CinnamonVideo)
 - [Web Monetization tag on DEV](https://dev.to/t/webmonetization)
 
-### Miscellaneous
 
 ---
 
