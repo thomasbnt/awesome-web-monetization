@@ -12,12 +12,12 @@ This is a JavaScript browser API that allows the creation of a payment stream fr
 - [About Web Monetization](#about-web-monetization)
 - [How to start monetize my website](#how-to-start-monetize-my-website)
 - [Resources](#resources)
-- [Packages](#packages)
-- [Tutorials](#tutorials)
-- [Articles](#articles)
-- [Newsletters](#newsletters)
-- [Tools](#tools)
-- [Community](#community)
+  - [Packages](#packages)
+  - [Tutorials](#tutorials)
+  - [Articles](#articles)
+  - [Newsletters](#newsletters)
+  - [Tools](#tools)
+  - [Community](#community)
 
 ## About Web Monetization
 
@@ -85,7 +85,7 @@ if (document.monetization) {
 
 ### Packages
 
-#### _Any packages/modules and plugins_
+_Any packages/modules and plugins_
 
 - [svelte-monetization](https://github.com/sorxrob/svelte-monetization) - A minimal and lightweight wrapper for the Web Monetization API. ![](assets/small_icons/svelte.png)
 - [monetize.js](https://github.com/sunchayn/monetize.js) - An event-driven library to manage and simulate Web Monetization. ![](assets/small_icons/javascript.png)
