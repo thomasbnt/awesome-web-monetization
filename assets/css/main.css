@@ -135,8 +135,8 @@ p, button {font-size: 19px;}
 }
 .bg_img_contrib {
     background-color: black;
-    background-image: url(../img/artem-sapegin-ZMraoOybTLQ-unsplash.jpg);
-    background: linear-gradient(rgba(47, 47, 47, 0.91), #244e3c94), url(../img/artem-sapegin-ZMraoOybTLQ-unsplash.jpg);
+    background-image: url(../img/caspar-camille-rubin-89xuP-XmyrA-unsplash);
+    background: linear-gradient(rgb(38 38 38 / 36%), #244e3c94), url(../img/caspar-camille-rubin-89xuP-XmyrA-unsplash);
     background-size: cover;
 }
 .credits_unsplash {
