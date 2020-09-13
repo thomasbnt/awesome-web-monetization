@@ -9,15 +9,18 @@ This is a JavaScript browser API that allows the creation of a payment stream fr
 
 ## Contents
 
-- [About Web Monetization](#about-web-monetization)
-- [How to start monetize my website](#how-to-start-monetize-my-website)
-- [Resources](#resources)
-  - [Packages](#packages)
-  - [Tutorials](#tutorials)
-  - [Articles](#articles)
-  - [Newsletters](#newsletters)
-  - [Tools](#tools)
-  - [Community](#community)
+- [Awesome Web Monetization ![Awesome](https://awesome.re)](#awesome-web-monetization-img-srchttpsawesomerebadge-flat2svg-altawesome)
+  - [Contents](#contents)
+  - [About Web Monetization](#about-web-monetization)
+  - [How to start monetize my website](#how-to-start-monetize-my-website)
+  - [Resources](#resources)
+    - [Packages](#packages)
+    - [Tutorials](#tutorials)
+    - [Articles](#articles)
+    - [Newsletters](#newsletters)
+    - [Tools](#tools)
+    - [Community](#community)
+  - [Contribute](#contribute)
 
 ## About Web Monetization
 
@@ -107,6 +110,7 @@ _Any packages/modules and plugins_
 - [Monetization](https://github.com/KNawm/monetization) - A wrapper around the Web Monetization API to monetize apps. ![](assets/small_icons/dart.png)
 - [react-webmonetization-meta](https://github.com/uchibeke/react-webmonetization-meta) - A Web Monetization meta tag manager for React. ![](assets/small_icons/react.png)
 - [web-monetization-electron-app](https://github.com/Jasmin2895/web-monetization-electron-app) - Project demonstrate basic setup to enable web monetization in Electron App. ![](assets/small_icons/electron.png)
+- - [web-monetized-video](https://github.com/Jasmin2895/web-monetized-video) - A web component with has play and pay policy and charges you for the amount of video watched. 😄💃[](assets/small_icons/javascript.png)
 
 ### Tutorials
 
