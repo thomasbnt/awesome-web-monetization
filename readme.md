@@ -9,18 +9,15 @@ This is a JavaScript browser API that allows the creation of a payment stream fr
 
 ## Contents
 
-- [Awesome Web Monetization ![Awesome](https://awesome.re)](#awesome-web-monetization-img-srchttpsawesomerebadge-flat2svg-altawesome)
-  - [Contents](#contents)
-  - [About Web Monetization](#about-web-monetization)
-  - [How to start monetize my website](#how-to-start-monetize-my-website)
-  - [Resources](#resources)
-    - [Packages](#packages)
-    - [Tutorials](#tutorials)
-    - [Articles](#articles)
-    - [Newsletters](#newsletters)
-    - [Tools](#tools)
-    - [Community](#community)
-  - [Contribute](#contribute)
+- [About Web Monetization](#about-web-monetization)
+- [How to start monetize my website](#how-to-start-monetize-my-website)
+- [Resources](#resources)
+  - [Packages](#packages)
+  - [Tutorials](#tutorials)
+  - [Articles](#articles)
+  - [Newsletters](#newsletters)
+  - [Tools](#tools)
+  - [Community](#community)
 
 ## About Web Monetization
 
