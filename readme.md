@@ -113,6 +113,7 @@ _Any packages/modules and plugins_
 
 - [Getting started](https://webmonetization.org/docs/getting-started) - Official documents from webmonetization.org.
 - [Exclusive content](https://webmonetization.org/docs/exclusive-content) - Put exclusive content on your website.
+- [Exclusive content in a Godot web game](https://innkeepergames.com/how-to-monetize-a-godot-game-with-web-monetization) - Put exclusive content in a web game made with the Godot Game Engine.
 
 ### Articles
 
