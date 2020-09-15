@@ -114,6 +114,7 @@ _Any packages/modules and plugins_
 - [Getting started](https://webmonetization.org/docs/getting-started) - Official documents from webmonetization.org.
 - [Exclusive content](https://webmonetization.org/docs/exclusive-content) - Put exclusive content on your website.
 - [Exclusive content in a Godot web game](https://innkeepergames.com/how-to-monetize-a-godot-game-with-web-monetization) - Put exclusive content in a web game made with the Godot Game Engine.
+- ['A Web Monetization Story'](https://esse-dev.github.io/a-web-monetization-story/) - An interactive, story-based Web Monetization tutorial for online creators.
 
 ### Articles
 
@@ -133,7 +134,7 @@ _Any packages/modules and plugins_
 
   > PayTrackr is the easiest and safest way to track and manage your micropayments to web monetized websites, having a web monetization provider membership.
 
-- [Akita](https://github.com/dog-s/akita) - A browser extension that gives you insight into your involvement with Web Monetization.
+- [Akita](https://github.com/esse-dev/akita) - A browser extension that gives you insight into your involvement with Web Monetization.
 
   > Akita presents your top visited monetized sites, how much time you're spending on them, and how much you're contributing (or could contribute) to them.
 
