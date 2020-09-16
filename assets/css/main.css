@@ -141,11 +141,11 @@ p, button {font-size: 19px;}
 }
 .credits_unsplash {
     position: absolute;
-    bottom: 5px;
-    color: white;
+    bottom: 17px;
+    color: #adadada1;
     font-size: 13px;
-    left: 10px;
+    left: 40px;
 }
 .credits_unsplash > a {
-    color: #e7e8e8;
+    color: #90c7c787;
 }
