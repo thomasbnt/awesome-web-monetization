@@ -110,6 +110,9 @@ button[disabled] {
     box-shadow: unset;
 }
 p, button {font-size: 19px;}
+.grp_buttons {
+    display: flex;
+}
 .b { background-color: lightgreen }
 .n {
     background-color: var(--err-color);
