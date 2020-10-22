@@ -12,10 +12,10 @@ Before submitting a Pull Request, please ensure you've done the following:
 
 ## What type of PR is this? (check all applicable)
 
-- [ ] Adding new(s) ressource(s)
+- [ ] Adding new(s) resource(s)
     - Else : 
 	- [ ] Added icon to right of the link 
-	- [ ] Checking if the ressource is not already writed
+	- [ ] Checking if the resource is not already written
 	
 - [ ] Update About Web Monetization part
 
