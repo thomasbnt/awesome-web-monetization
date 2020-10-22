@@ -126,7 +126,6 @@ _Any packages/modules and plugins_
 
 - [Newsletter of grantfortheweb.org](https://www.grantfortheweb.org/signup) - Sign up for email updates.
 
-
 ### Tools
 
 - [Is web monetized](https://github.com/jkga/is-web-monetized) - A very simple tool for checking if Web Monetization is enabled.
@@ -157,7 +156,6 @@ _Any packages/modules and plugins_
 - [@Coil on Twitter](https://twitter.com/Coil)
 - [@CinnamonVideo on Twitter](https://twitter.com/CinnamonVideo)
 - [Web Monetization tag on DEV](https://dev.to/t/webmonetization)
-
 
 ---
 
