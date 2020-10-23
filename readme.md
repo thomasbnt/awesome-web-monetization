@@ -115,6 +115,7 @@ _Any packages/modules and plugins_
 - [Exclusive content](https://webmonetization.org/docs/exclusive-content) - Put exclusive content on your website.
 - [Exclusive content in a Godot web game](https://innkeepergames.com/how-to-monetize-a-godot-game-with-web-monetization) - Put exclusive content in a web game made with the Godot Game Engine.
 - ['A Web Monetization Story'](https://esse-dev.github.io/a-web-monetization-story/) - An interactive, story-based Web Monetization tutorial for online creators.
+- [Web Monetization like I'm 5](https://dev.to/hacksultan/web-monetization-like-i-m-5-1418) - Monetizing the web!.
 
 ### Articles
 
@@ -124,7 +125,6 @@ _Any packages/modules and plugins_
 ### Newsletters
 
 - [Newsletter of grantfortheweb.org](https://www.grantfortheweb.org/signup) - Sign up for email updates.
-
 
 ### Tools
 
@@ -156,7 +156,6 @@ _Any packages/modules and plugins_
 - [@Coil on Twitter](https://twitter.com/Coil)
 - [@CinnamonVideo on Twitter](https://twitter.com/CinnamonVideo)
 - [Web Monetization tag on DEV](https://dev.to/t/webmonetization)
-
 
 ---
 
