@@ -1,7 +1,7 @@
 ---
 name: New Wallet
 about: Suggest a new Wallet
-title: "[Wa]"
+title: "[Wa] "
 labels: Wallet, ↔ WM repository
 assignees: thomasbnt
 
@@ -13,4 +13,4 @@ assignees: thomasbnt
 Check is a Wallet provider and/or for payments
 
 - [ ] Wallet Provider
-- [ ] Wallet for payements
+- [ ] Wallet for payments
