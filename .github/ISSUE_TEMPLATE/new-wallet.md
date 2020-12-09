@@ -7,10 +7,11 @@ assignees: thomasbnt
 
 ---
 
-* Name :
+* Name :andrew mogbolu
 * Link :
 
 Check is a Wallet provider and/or for payments
 
 - [ ] Wallet Provider
 - [ ] Wallet for payements
+- [ ] wallet for reciever
