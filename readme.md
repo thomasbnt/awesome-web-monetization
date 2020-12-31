@@ -108,6 +108,7 @@ _Any packages/modules and plugins_
 - [react-webmonetization-meta](https://github.com/uchibeke/react-webmonetization-meta) - A Web Monetization meta tag manager for React. ![](assets/small_icons/react.png)
 - [web-monetization-electron-app](https://github.com/Jasmin2895/web-monetization-electron-app) - Project demonstrate basic setup to enable web monetization in Electron App. ![](assets/small_icons/electron.png)
 - [web-monetized-video](https://github.com/Jasmin2895/web-monetized-video) - A web component with has play and pay policy and charges you for the amount of video watched. 😄💃[](assets/small_icons/javascript.png)
+- [web-monetization-polyfill](https://github.com/immers-space/web-monetization-polyfill/) - Ensure the Javascript Web Monetization API is available, even in evironments with Content Security Policies enabled. [](assets/small_icons/javascript.png)
 
 ### Tutorials
 
