@@ -22,7 +22,7 @@ This is a JavaScript browser API that allows the creation of a payment stream fr
 ## About Web Monetization
 
 - [Webmonetization.org](https://webmonetization.org/)
-- [Documentation](https://webmonetization.org/docs/getting-started.html)
+- [Documentation](https://webmonetization.org/docs/getting-started)
 - [How Web Monetization work for paying payments](https://webmonetization.org/docs/sending)
 - [How Web Monetization work for receiving payments](https://webmonetization.org/docs/receiving)
 - [Specifications](https://webmonetization.org/specification.html)
