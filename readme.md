@@ -18,7 +18,7 @@ This is a JavaScript browser API that allows the creation of a payment stream fr
   - [Newsletters](#newsletters)
   - [Tools](#tools)
   - [Community](#community)
-  - [Donate](#donate)
+- [Donate](#donate)
 
 ## About Web Monetization
 
