@@ -153,7 +153,7 @@ _Any packages/modules and plugins_
 
 ### Community
 
-- [grantfortheweb.org forum](https://forum.grantfortheweb.org/)
+- [Web Monetization Community Space](https://community.webmonetization.org/)
 - [@GrantForTheWeb on Twitter](https://twitter.com/GrantForTheWeb)
 - [@Coil on Twitter](https://twitter.com/Coil)
 - [@CinnamonVideo on Twitter](https://twitter.com/CinnamonVideo)
