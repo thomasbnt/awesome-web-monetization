@@ -1,10 +1,12 @@
+/*
+    Seems not really correct for scrolling on small devices.
 function Scroll_to(x) {
     window.scroll({
         top: x,
         left: 0,
         behavior: 'smooth'
     })
-}
+}*/
 function showMonetizationState() {
     document.getElementById('state').innerText = document.monetization.state
 }
