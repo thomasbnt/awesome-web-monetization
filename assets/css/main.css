@@ -152,3 +152,6 @@ p, button {font-size: 19px;}
 .credits_unsplash > a {
     color: #90c7c787;
 }
+.scroll-margin-top {
+    scroll-margin-top: 100px;
+}
