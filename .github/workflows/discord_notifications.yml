@@ -1,0 +1,15 @@
+name: Discord Webhook
+
+on: [push, pull_request]
+
+jobs:
+  report:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v1
+      - name: Run Discord Webhook
+        uses: Mist3r-Robot/classic-discord-webhook@master
+        with:
+          id: ${{ secrets.DISCORD_WEBHOOK_ID }}
+          token: ${{ secrets.DISCORD_WEBHOOK_TOKEN }}
