@@ -110,7 +110,7 @@ _Any packages/modules and plugins_
 - [web-monetization-electron-app](https://github.com/Jasmin2895/web-monetization-electron-app) - Project demonstrate basic setup to enable web monetization in Electron App. ![](assets/small_icons/electron.png)
 - [web-monetized-video](https://github.com/Jasmin2895/web-monetized-video) - A web component with has play and pay policy and charges you for the amount of video watched. 😄💃[](assets/small_icons/javascript.png)
 - [web-monetization-polyfill](https://github.com/immers-space/web-monetization-polyfill/) - Ensure the JavaScript Web Monetization API is available, even in environments with Content Security Policies enabled. ![](assets/small_icons/javascript.png)
-- [web-monetization-video-ads]( https://www.npmjs.com/package/web-monetization-video-ads)  - Linking Web Monetization with video advertising to allow a freemium business model to be implemented for Web Monetization. ![](assets/small_icons/javascript.png)
+- [web-monetization-video-ads]( https://www.npmjs.com/package/web-monetization-video-ads) - Linking Web Monetization with video advertising to allow a freemium business model to be implemented for Web Monetization. ![](assets/small_icons/javascript.png)
 - [web-monetization-revenue-share](https://www.npmjs.com/package/web-monetization-revenue-share) - Automated redistribution of funds to a community via smart contracts. ![](assets/small_icons/javascript.png)
 
 ### Tutorials
