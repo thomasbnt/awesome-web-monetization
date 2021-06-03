@@ -39,9 +39,12 @@ This is a JavaScript browser API that allows the creation of a payment stream fr
 
 If you would like to monetize your content, you must have a Wallet and Provider account. See below the platforms that allow you to use them.
 
-<details><summary>More details here</summary>
+<details><summary>More details about Wallet and Provider account</summary>
 <p>
-
+  
+___
+  
+  
 | **Wallets** |                                  |                                                         |                                              |                                                      |
 | :---------: | :------------------------------: | :-----------------------------------------------------: | :------------------------------------------: | :--------------------------------------------------: |
 |    Name     | [![Uphold][uphold-logo]][uphold] |           [![GateHub][gatehub-logo]][gatehub]           | [![Stronghold][stronghold-logo]][stronghold] | [New Wallet ?<br>Create a issue !][new-wallet-issue] |
@@ -61,6 +64,7 @@ If you are use already XRP Tipbot, [check here to migrate on Uphold](https://web
 | ------------ |   --------------------------------------------------------------------------      |
 | Name         | [![Coil](https://webmonetization.org/img/coil_logo.svg)](https://coil.com/signup) |
 
+___
 </p>
 </details>
 
