@@ -47,17 +47,9 @@ If you would like to monetize your content, you must have a Wallet and Provider 
   
 | **Wallets** |                                  |                                                         |                                              |                                                      |
 | :---------: | :------------------------------: | :-----------------------------------------------------: | :------------------------------------------: | :--------------------------------------------------: |
-|    Name     | [![Uphold][uphold-logo]][uphold] |           [![GateHub][gatehub-logo]][gatehub]           | [![Stronghold][stronghold-logo]][stronghold] | [New Wallet ?<br>Create a issue !][new-wallet-issue] |
+|    Name     | [![Uphold](https://webmonetization.org/img/uphold_logo.svg)](https://uphold.com/) |           [![GateHub](https://webmonetization.org/img/gatehub_logo.svg)](https://gatehub.net/)           | [![Stronghold](https://webmonetization.org/img/stronghold_logo.svg)](https://stronghold.co/real-time-payments#coil) | [New Wallet ?<br>Create a issue !](https://github.com/thomasbnt/awesome-web-monetization/issues/new?assignees=thomasbnt&labels=Wallet%2C+%E2%86%94+WM+repository&template=new-wallet.md&title=%5BWa%5D) |
 |    Fees     |               None               | SEPA: 1.00 EUR < 50,000 EUR<br>Wire: $15 min ($150 max) |              \$3 withdrawal fee              |                                                      |
-
-[new-wallet-issue]: https://github.com/thomasbnt/awesome-web-monetization/issues/new?assignees=thomasbnt&labels=Wallet%2C+%E2%86%94+WM+repository&template=new-wallet.md&title=%5BWa%5D
-[gatehub]: https://gatehub.net/
-[gatehub-logo]: https://webmonetization.org/img/gatehub_logo.svg
-[stronghold]: https://stronghold.co/real-time-payments#coil
-[stronghold-logo]: https://webmonetization.org/img/stronghold_logo.svg
-[uphold]: https://uphold.com/
-[uphold-logo]: https://webmonetization.org/img/uphold_logo.svg
-
+  
 If you are use already XRP Tipbot, [check here to migrate on Uphold](https://webmonetization.org/docs/xrptipbot).
 
 | **Payments** |                                                                                   |
