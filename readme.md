@@ -84,7 +84,7 @@ if (document.monetization) {
 
 _Any packages/modules and plugins_
 
-- [svelte-monetization](https://github.com/sorxrob/svelte-monetization) - A minimal and lightweight wrapper for the Web Monetization API. ![](assets/small_icons/svelte.png)
+- [svelte-monetization](https://github.com/wobsoriano/svelte-monetization) - A minimal and lightweight wrapper for the Web Monetization API. ![](assets/small_icons/svelte.png)
 - [monetize.js](https://github.com/sunchayn/monetize.js) - An event-driven library to manage and simulate Web Monetization. ![](assets/small_icons/javascript.png)
 - [types-wm](https://github.com/dacioromero/types-wm) - TypeScript definitions for Web Monetization ![](assets/small_icons/typescript.png)
 - [ngx-monetization](https://github.com/CDDelta/ngx-monetization) - Web Monetization API for Angular. ![](assets/small_icons/angular.png)
@@ -103,10 +103,14 @@ _Any packages/modules and plugins_
 - [Monetization](https://github.com/KNawm/monetization) - A wrapper around the Web Monetization API to monetize apps. ![](assets/small_icons/dart.png)
 - [react-webmonetization-meta](https://github.com/uchibeke/react-webmonetization-meta) - A Web Monetization meta tag manager for React. ![](assets/small_icons/react.png)
 - [web-monetization-electron-app](https://github.com/Jasmin2895/web-monetization-electron-app) - Project demonstrate basic setup to enable web monetization in Electron App. ![](assets/small_icons/electron.png)
-- [web-monetized-video](https://github.com/Jasmin2895/web-monetized-video) - A web component with has play and pay policy and charges you for the amount of video watched. 😄💃[](assets/small_icons/javascript.png)
+- [web-monetized-video](https://github.com/Jasmin2895/web-monetized-video) - A web component with has play and pay policy and charges you for the amount of video watched. ![](assets/small_icons/javascript.png)
 - [web-monetization-polyfill](https://github.com/immers-space/web-monetization-polyfill/) - Ensure the JavaScript Web Monetization API is available, even in environments with Content Security Policies enabled. ![](assets/small_icons/javascript.png)
 - [web-monetization-video-ads]( https://www.npmjs.com/package/web-monetization-video-ads) - Linking Web Monetization with video advertising to allow a freemium business model to be implemented for Web Monetization. ![](assets/small_icons/javascript.png)
 - [web-monetization-revenue-share](https://www.npmjs.com/package/web-monetization-revenue-share) - Automated redistribution of funds to a community via smart contracts. ![](assets/small_icons/javascript.png)
+- [awesome-jsgames](https://github.com/proyecto26/awesome-jsgames) - A curated list of awesome JavaScript Games ![](assets/small_icons/javascript.png)
+- [mediadisclosures](https://github.com/oofdere/mediadisclosures) - An open-source, always evolving, universal content rating system. ![](assets/small_icons/javascript.png)
+- [web-monetization-demo](https://github.com/peter279k/web-monetization-demo) - This is a Web Monetization Demo ![](assets/small_icons/javascript.png)
+- [money-chat](https://github.com/dfoderick/money-chat) - Web Monetization chat app ![](assets/small_icons/javascript.png)
 
 ### Tutorials
 
@@ -114,7 +118,7 @@ _Any packages/modules and plugins_
 - [Exclusive content](https://webmonetization.org/docs/exclusive-content) - Put exclusive content on your website.
 - [Exclusive content in a Godot web game](https://innkeepergames.com/how-to-monetize-a-godot-game-with-web-monetization) - Put exclusive content in a web game made with the Godot Game Engine.
 - ['A Web Monetization Story'](https://esse-dev.github.io/a-web-monetization-story/) - An interactive, story-based Web Monetization tutorial for online creators.
-- [Web Monetization like I'm 5](https://dev.to/hacksultan/web-monetization-like-i-m-5-1418) - Monetizing the web!.
+- [Web Monetization like I'm 5](https://dev.to/hacksultan/web-monetization-like-i-m-5-1418) - Monetizing the web!
 
 ### Articles
 
