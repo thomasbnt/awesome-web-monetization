@@ -1,0 +1,9 @@
+[[redirects]]
+from = "https://master--thomasbnt.netlify.app/"
+to = "https://awesomewebmonetization.netlify.app/"
+status = 301
+force = true
+
+[[plugins]]
+# Installs the Lighthouse Build Plugin for all deploy contexts
+package = "@netlify/plugin-lighthouse"
