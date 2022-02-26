@@ -1,8 +1,16 @@
 {
-  "devDependencies": {
-    "awesome-lint": "^0.13.0"
-  },
+  "name": "awesome-web-monetization-website-vuejs3",
+  "version": "0.0.0",
   "scripts": {
-    "test": "awesome-lint"
+    "dev": "vite --host",
+    "build": "vite build",
+    "preview": "vite preview --port 5050"
+  },
+  "dependencies": {
+    "vue": "^3.2.31"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.2.2",
+    "vite": "^2.8.4"
   }
 }
