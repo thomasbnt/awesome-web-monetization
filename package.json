@@ -2,7 +2,7 @@
   "name": "awesome-web-monetization-website-vuejs3",
   "version": "0.0.0",
   "scripts": {
-    "dev": "vite --host",
+    "dev": "vite --host && sass --watch src/scss:dist/css",
     "build": "vite build",
     "preview": "vite preview --port 5050"
   },
@@ -11,6 +11,7 @@
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^2.2.2",
+    "sass": "^1.49.9",
     "vite": "^2.8.4"
   }
 }
