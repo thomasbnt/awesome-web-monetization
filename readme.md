@@ -34,4 +34,4 @@ Feel free to help [me](https://github.com/thomasbnt) for the maintenance of this
 
 Thanks to all **Sponsors on GitHub** !
 
-[![Github Sponsors](https://cdn.jsdelivr.net/gh/thomasbnt/sponsors/sponsors.svg)](https://github.com/sponsors/thomasbnt)
+[![Github Sponsors](https://cdn.jsdelivr.net/gh/thomasbnt/sponsors@1.0/sponsors.svg)](https://github.com/sponsors/thomasbnt)
