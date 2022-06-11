@@ -1,12 +1,38 @@
 @import "../utils/_variables.scss";
 
+footer,
 .header__section {
   display: flex;
   flex-direction: column;
+  padding: 2rem 4rem;
+}
+
+.header__section {
   padding: 20% 25vh;
 }
-@media (max-width: 900px) {
+
+@media (min-width: $large_device) {
+  footer,
+  .header__section {
+    padding: 10rem 18%;
+  }
+}
+
+@media (max-width: $medium_device) {
+  .header__section {
+    padding: 10rem 10%;
+  }
+}
+
+@media (max-width: $small_device) {
   .header__section {
     padding: 20% 3%;
+  }
+  footer {
+    .row {
+      gap: 3rem !important;
+      flex: 1;
+      flex-direction: column;
+    }
   }
 }
