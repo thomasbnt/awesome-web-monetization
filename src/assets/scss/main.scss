@@ -1,16 +1,13 @@
-*,
-*::before,
-*::after {
-  box-sizing: border-box;
-  margin: 0;
+@import "utils/_variables.scss";
+@import "components/_buttons.scss";
+@import "base/_markup_basis.scss";
+@import "base/_sections.scss";
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
 }
-body {
-  font-family: 'Open Sans', sans-serif;
-  font-size: 16px;
-  line-height: 1.5;
-  color: #333;
-  background-color: #fff;
-}
-h1 {
-  color: red !important;
+
+.col {
+  flex: 1;
 }
