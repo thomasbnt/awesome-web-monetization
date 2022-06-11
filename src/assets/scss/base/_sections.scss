@@ -1,0 +1,12 @@
+@import "../utils/_variables.scss";
+
+.header__section {
+  display: flex;
+  flex-direction: column;
+  padding: 20% 25vh;
+}
+@media (max-width: 900px) {
+  .header__section {
+    padding: 20% 3%;
+  }
+}
