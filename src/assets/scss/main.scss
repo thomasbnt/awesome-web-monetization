@@ -2,12 +2,4 @@
 @import "components/_buttons.scss";
 @import "base/_markup_basis.scss";
 @import "base/_sections.scss";
-
-.row {
-  display: flex;
-  flex-wrap: wrap;
-}
-
-.col {
-  flex: 1;
-}
+@import "layouts/_flex.scss";
