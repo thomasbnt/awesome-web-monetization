@@ -1,0 +1,41 @@
+@import "../utils/_variables.scss";
+
+.btn {
+  display: flex;
+  align-items: center;
+  font-weight: 400;
+  font-size: 1rem;
+  line-height: 1.5;
+  border-radius: 1.8rem;
+  padding: .7rem 1.7rem;
+  max-width: fit-content;
+  color: $white;
+  background-color: $primary;
+  text-align: center;
+  text-decoration: none;
+  vertical-align: middle;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  border: 1px solid transparent;
+  transition: .3s ease-out;
+  &:hover {
+    transform: translateY(-4px);
+    box-shadow: 4px 7px 1px $primary;
+  }
+
+  &-main {
+    @extend .btn;
+    text-transform: uppercase;
+    background-color: $black;
+    padding: .9rem 2.1rem .9rem 1rem;
+    font-size: 1.2rem;
+  }
+
+  > i {
+    font-size: 2rem;
+    margin-right: .7rem;
+  }
+}
