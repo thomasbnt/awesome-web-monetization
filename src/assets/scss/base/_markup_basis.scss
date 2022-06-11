@@ -1,0 +1,54 @@
+@import "../utils/_variables.scss";
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  color: $black;
+  background-color: $white;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Roboto Medium', sans-serif;
+  line-height: 1.4;
+}
+
+p, span {
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+  font-size: 3rem;
+  font-weight: 800;
+  line-height: 1.2;
+  margin-bottom: 1.5rem;
+}
+
+h2 {
+  font-size: 2.2rem;
+  font-weight: 400;
+  margin-bottom: 2rem;
+}
+
+a {
+  color: $black;
+  text-decoration: unset;
+  cursor: pointer;
+}
+
+img {
+  user-select: none;
+  max-width: 100%;
+  height: auto;
+}
