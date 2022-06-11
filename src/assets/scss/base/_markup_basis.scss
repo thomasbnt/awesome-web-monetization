@@ -24,31 +24,65 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1.4;
 }
 
-p, span {
+p, span, li {
   font-family: 'Open Sans', sans-serif;
+  font-size: 1.1rem;
+  line-height: 2.1rem;
 }
 
 h1 {
   font-size: 3rem;
   font-weight: 800;
   line-height: 1.2;
-  margin-bottom: 1.5rem;
+}
+@media (max-width: $small_device) {
+  h1 {
+    font-size: 2.5rem;
+  }
 }
 
 h2 {
   font-size: 2.2rem;
-  font-weight: 400;
+  font-weight: 200;
   margin-bottom: 2rem;
+}
+
+h3 {
+  font-size: 1.8rem;
+  margin-bottom: 1.2rem;
+}
+
+h4 {
+  font-size: 1.6rem;
+  margin-bottom: 1rem;
 }
 
 a {
   color: $black;
   text-decoration: unset;
   cursor: pointer;
+  transition: .3s;
+  &[target='_blank'] {
+    cursor: alias;
+  }
+
+  &:hover:not(.btn) {
+    color: #62CE9F;
+  }
 }
+
 
 img {
   user-select: none;
   max-width: 100%;
   height: auto;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  list-style-position: inside;
 }
