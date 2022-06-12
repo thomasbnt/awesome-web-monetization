@@ -27,7 +27,7 @@ h1, h2, h3, h4, h5, h6 {
 p, span, li {
   font-family: 'Open Sans', sans-serif;
   font-size: 1.1rem;
-  line-height: 2.1rem;
+  line-height: 2.4rem;
 }
 
 h1 {
@@ -85,4 +85,12 @@ ul {
 
 li {
   list-style-position: inside;
+}
+
+pre {
+  max-height: 35rem;
+  padding: 10px;
+  background-color: $primary;
+  overflow-x: hidden;
+  overflow-y: scroll;
 }

@@ -10,7 +10,63 @@
         <i class='fa fa-github' aria-hidden='true'></i> See the list on GitHub
       </a>
     </section>
-    <section>
+    <section class='example__section'>
+      <div class='row'>
+        <div class='col'>
+          <p>Current Monetization State: <span id='state'></span></p>
+          <pre id='container_of_script'></pre>
+          <div id='error-no-monetization' class='error'>
+            Note: In order to see any events here, you need to have an extension installed from a web monetization
+            provider,
+            like <a href='https://coil.com'>coil.com</a>.
+            (<a href='https://chrome.google.com/webstore/detail/coil/locbifcbeldmnphbgkdigjmkbfkhbnca'>Chrome</a>
+            or <a href='https://addons.mozilla.org/en-US/firefox/addon/coil/'>Firefox</a>)
+          </div>
+          <div id='error-wrong-protocol' class='error'>
+            Error: This demo must be
+            <a href='https://developer.mozilla.org/en-US/docs/Learn/Common_questions/set_up_a_local_testing_server'>run
+              from a server</a>.
+          </div>
+          <div id='error-timeout' class='error'>
+            Warning: No monetization events occurred after six seconds.
+            This probably indicates that you have a web monetization extension, but no active account.
+            Get one at <a href='https://coil.com'
+                          rel='noopener noreferrer' target='_blank'>coil.com</a>.
+          </div>
+          <small>This script is from
+            <a href='https://testwebmonetization.com/' rel='noopener noreferrer'
+               target='_blank'>testwebmonetization.com</a>
+          </small>
+        </div>
+        <div class='col'>
+          <h2>About Web Monetization</h2>
+          <p>Web Monetization is a web service that allows you to send money directly in your browser.</p>
+          <p>
+            This is becoming more and more used on the Internet.
+            Interesting for people to turn to a <b>new payment method for websites</b> such as blogs, videos,
+            newsletters or shared photos whether it is monetized according to the time spent reading/watching.
+            <u>And all this natively on your computer</u>.
+          </p>
+          <p>
+            If you want more about the Web Monetization, motivation to publish that, know payments/wallets
+            providers and more, you can check
+            <a href='https://webmonetization.org/?utm_source=awesome-web-monetization&utm_medium=website'
+               rel='noopener' target='_blank' class='primary-color'>
+              WebMonetization.org, the official website <i class='fa fa-external-link'></i>
+            </a>.
+          </p>
+          <p class='hidden' id='exclusive'>
+            But you know already what is
+            <span style='cursor: help;' title='Web Monetization'>WM</span> no?
+            This page detected you have got Coil or other payment providers.
+          </p>
+          <div class='grp_buttons'>
+            <button id='stop-button' class='btn'>Stop Monetization</button>
+            <button id='start-button' class='btn' disabled>Start Monetization</button>
+          </div>
+        </div>
+      </div>
+
 
     </section>
     <section>
@@ -31,12 +87,5 @@ export default {
 </script>
 <style lang='scss'>
 @import './assets/scss/main.scss';
-.title {
-  display: flex;
-  align-items: center;
-  margin-bottom: 2rem;
-  > img {
-    margin-right: 1rem;
-  }
-}
+
 </style>

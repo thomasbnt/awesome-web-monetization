@@ -21,9 +21,11 @@
   user-select: none;
   border: 1px solid transparent;
   transition: .3s ease-out;
-  &:hover {
-    transform: translateY(-4px);
-    box-shadow: 4px 7px 1px $primary;
+
+  &[disabled] {
+    cursor: not-allowed;
+    opacity: .5;
+
   }
 
   &-main {
@@ -32,6 +34,10 @@
     background-color: $black;
     padding: .9rem 2.1rem .9rem 1rem;
     font-size: 1.2rem;
+    &:hover {
+      transform: translateY(-4px);
+      box-shadow: 4px 7px 1px $primary;
+    }
   }
 
   > i {

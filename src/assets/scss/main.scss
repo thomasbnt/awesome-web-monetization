@@ -3,3 +3,47 @@
 @import "base/_markup_basis.scss";
 @import "base/_sections.scss";
 @import "layouts/_flex.scss";
+
+.hidden {
+  display: none;
+  visibility: hidden;
+}
+
+.title {
+  display: flex;
+  align-items: center;
+  margin-bottom: 2rem;
+
+  > img {
+    margin-right: 1rem;
+  }
+}
+
+.state__color {
+  &_active {
+    color: $primary;
+  }
+
+  &_inactive {
+    color: $error;
+  }
+}
+
+.grp_buttons {
+  display: flex;
+  gap: 1rem;
+  margin-top: 2rem;
+}
+
+.error {
+  display: none;
+  background-color: $error;
+  padding: 10px;
+  color: $white;
+  margin-top: 1rem;
+  border-radius: 4px;
+}
+
+.error > a {
+  color: $white;
+}

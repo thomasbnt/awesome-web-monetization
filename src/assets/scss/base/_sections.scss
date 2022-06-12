@@ -13,7 +13,8 @@ footer,
 
 @media (min-width: $large_device) {
   footer,
-  .header__section {
+  .header__section,
+  .example__section {
     padding: 10rem 18%;
   }
 }
@@ -28,7 +29,8 @@ footer,
   .header__section {
     padding: 20% 3%;
   }
-  footer {
+  footer,
+  .example__section {
     .row {
       gap: 3rem !important;
       flex: 1;
