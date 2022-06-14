@@ -1,10 +1,15 @@
 @import "../utils/_variables.scss";
 
 footer,
-.header__section {
+.header__section,
+.example__section {
   display: flex;
   flex-direction: column;
   padding: 2rem 4rem;
+  .row {
+    margin: auto;
+    max-width: 1600px;
+  }
 }
 
 .header__section {
