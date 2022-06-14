@@ -28,10 +28,10 @@
               from a server</a>.
           </div>
           <div id='error-timeout' class='error'>
-            Warning: No monetization events occurred after six seconds.
-            This probably indicates that you have a web monetization extension, but no active account.
-            Get one at <a href='https://coil.com'
-                          rel='noopener noreferrer' target='_blank'>coil.com</a>.
+            <p>Warning: No monetization events occurred after six seconds.
+              This probably indicates that you have a web monetization extension, but no active account.
+              Get one at <a href='https://coil.com'
+                            rel='noopener noreferrer' target='_blank'>coil.com</a>.</p>
           </div>
           <small>This script is from
             <a href='https://testwebmonetization.com/' rel='noopener noreferrer'
@@ -45,15 +45,14 @@
             This is becoming more and more used on the Internet.
             Interesting for people to turn to a <b>new payment method for websites</b> such as blogs, videos,
             newsletters or shared photos whether it is monetized according to the time spent reading/watching.
-            <u>And all this natively on your computer</u>.
+            And all this natively on your computer.
           </p>
           <p>
             If you want more about the Web Monetization, motivation to publish that, know payments/wallets
             providers and more, you can check
             <a href='https://webmonetization.org/?utm_source=awesome-web-monetization&utm_medium=website'
                rel='noopener' target='_blank' class='primary-color'>
-              WebMonetization.org, the official website <i class='fa fa-external-link'></i>
-            </a>.
+              WebMonetization.org, the official website</a>.
           </p>
           <p class='hidden' id='exclusive'>
             But you know already what is

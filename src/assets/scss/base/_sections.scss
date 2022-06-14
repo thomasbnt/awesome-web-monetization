@@ -8,33 +8,45 @@ footer,
 }
 
 .header__section {
-  padding: 20% 25vh;
+  padding: 15% 23vh;
+  background: url('/src/assets/img/list.png') no-repeat right bottom;
 }
 
-@media (min-width: $large_device) {
+.example__section {
+  background-color: white;
+}
+
+footer,
+.header__section,
+.example__section {
+  padding: 8rem 13%;
+}
+
+@media (max-width: $large_device) {
+  .header__section {
+    padding: 10rem 10%;
+  }
   footer,
-  .header__section,
   .example__section {
-    padding: 10rem 18%;
+    padding: 4rem 2rem;
   }
 }
 
 @media (max-width: $medium_device) {
   .header__section {
-    padding: 10rem 10%;
-  }
-}
-
-@media (max-width: $small_device) {
-  .header__section {
     padding: 20% 3%;
   }
   footer,
   .example__section {
+    padding: 3.5rem .5rem;
+
     .row {
       gap: 3rem !important;
       flex: 1;
       flex-direction: column;
     }
+  }
+  .example__section .row {
+    flex-direction: column-reverse;
   }
 }

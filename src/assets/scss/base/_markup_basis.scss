@@ -1,5 +1,21 @@
 @import "../utils/_variables.scss";
 
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: white;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #262626;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #060608;
+}
+
 *,
 *::before,
 *::after {
@@ -35,11 +51,6 @@ h1 {
   font-weight: 800;
   line-height: 1.2;
 }
-@media (max-width: $small_device) {
-  h1 {
-    font-size: 2.5rem;
-  }
-}
 
 h2 {
   font-size: 2.2rem;
@@ -57,11 +68,27 @@ h4 {
   margin-bottom: 1rem;
 }
 
+@media (max-width: $medium_device) {
+  h1 {
+    font-size: 2.5rem;
+  }
+}
+
+@media (max-width: $small_device) {
+  h1 {
+    font-size: 2.1rem;
+  }
+  h2 {
+    font-size: 1.6rem;
+  }
+}
+
 a {
-  color: $black;
-  text-decoration: unset;
+  color: $primary_for_btn;
+  text-decoration: none;
   cursor: pointer;
   transition: .3s;
+
   &[target='_blank'] {
     cursor: alias;
   }
@@ -79,7 +106,6 @@ img {
 }
 
 ul {
-  list-style: none;
   padding: 0;
 }
 
@@ -94,3 +120,5 @@ pre {
   overflow-x: hidden;
   overflow-y: scroll;
 }
+
+

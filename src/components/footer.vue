@@ -72,6 +72,7 @@ export default {
 footer {
   user-select: none;
   padding: 4rem 3rem;
+  margin-top: 2rem;
   border-bottom: $primary 1rem solid;
 
   > .row {
@@ -79,7 +80,7 @@ footer {
   }
 }
 
-@media (max-width: $small_device) {
+@media (max-width: $medium_device) {
   footer {
     padding: 2rem;
   }
