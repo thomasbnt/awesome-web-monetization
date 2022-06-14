@@ -1,14 +1,18 @@
 <template>
   <div>
     <section class='header__section'>
-      <div class='title'>
-        <img src='/src/assets/img/wm_small_icon_animated.svg' alt='Web Monetization logo' width='100' height='100'>
-        <h1>Awesome Web Monetization</h1>
+      <div class='row'>
+        <div class='col'>
+          <div class='title'>
+            <img src='/src/assets/img/wm_small_icon_animated.svg' alt='Web Monetization logo' width='100' height='100'>
+            <h1>Awesome Web Monetization</h1>
+          </div>
+          <h2>Stuffs about Web Monetization. Packages, articles, documentation links and others tools.</h2>
+          <a href='https://github.com/thomasbnt/awesome-web-monetization' class='btn-main'>
+            <i class='fa fa-github' aria-hidden='true'></i> See the list on GitHub
+          </a>
+        </div>
       </div>
-      <h2>Stuffs about Web Monetization. Packages, articles, documentation links and others tools.</h2>
-      <a href='https://github.com/thomasbnt/awesome-web-monetization' class='btn-main'>
-        <i class='fa fa-github' aria-hidden='true'></i> See the list on GitHub
-      </a>
     </section>
     <section class='example__section'>
       <div class='row'>
@@ -39,7 +43,7 @@
           </small>
         </div>
         <div class='col'>
-          <h2>About Web Monetization</h2>
+          <h3>About Web Monetization</h3>
           <p>Web Monetization is a web service that allows you to send money directly in your browser.</p>
           <p>
             This is becoming more and more used on the Internet.
