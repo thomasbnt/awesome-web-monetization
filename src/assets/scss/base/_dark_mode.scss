@@ -1,0 +1,8 @@
+@import "../utils/_variables.scss";
+
+footer {
+  background-color: $black;
+  h3, h4, p, a, li {
+    color: $white;
+  }
+}
