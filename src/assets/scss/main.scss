@@ -2,6 +2,7 @@
 @import "components/_buttons.scss";
 @import "base/_markup_basis.scss";
 @import "base/_sections.scss";
+@import "base/_dark_mode.scss";
 @import "layouts/_flex.scss";
 
 .hidden {
@@ -42,8 +43,9 @@
   color: $white;
   margin-top: 1rem;
   border-radius: 4px;
+  a {
+    text-decoration: underline;
+    color: $white;
+  }
 }
 
-.error > a {
-  color: $white;
-}
