@@ -58,6 +58,12 @@ h2 {
   margin-bottom: 2rem;
 }
 
+@media (min-width: $large_device) {
+  h2 {
+    max-width: 55%;
+  }
+}
+
 h3 {
   font-size: 1.8rem;
   margin-bottom: 1.2rem;
