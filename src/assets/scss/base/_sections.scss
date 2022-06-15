@@ -6,9 +6,25 @@ footer,
   display: flex;
   flex-direction: column;
   padding: 2rem 4rem;
+
   .row {
     margin: auto;
     max-width: 1600px;
+  }
+}
+footer {
+  .col:last-of-type {
+    text-align: right;
+    direction: rtl;
+  }
+}
+
+@media (max-width: $medium_device) {
+  footer {
+    .col:last-of-type {
+      text-align: left;
+      direction: ltr;
+    }
   }
 }
 
