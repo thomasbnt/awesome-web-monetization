@@ -21,9 +21,6 @@
         </p>
       </div>
       <div class='col'>
-
-      </div>
-      <div class='col'>
         <h4>Ressources</h4>
         <ul>
           <li>
