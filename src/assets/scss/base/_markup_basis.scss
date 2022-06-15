@@ -123,8 +123,12 @@ pre {
   max-height: 35rem;
   padding: 10px;
   background-color: $primary;
-  overflow-x: hidden;
-  overflow-y: scroll;
+  overflow: scroll;
 }
 
+@media (max-width: $medium_device) {
+  pre {
+    white-space: break-spaces;
+  }
+}
 
