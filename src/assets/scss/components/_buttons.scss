@@ -22,9 +22,18 @@
   border: 1px solid transparent;
   transition: .3s ease-out;
 
+  &:not(.btn-main) {
+    box-shadow: #62ce9f 4px 4px 0;
+  }
+
   &[disabled] {
     cursor: not-allowed;
     opacity: .5;
+    box-shadow: unset;
+
+  }
+  &:hover {
+    box-shadow: unset;
 
   }
 
