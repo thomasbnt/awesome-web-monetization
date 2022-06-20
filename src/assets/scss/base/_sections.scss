@@ -12,6 +12,7 @@ footer,
     max-width: 1600px;
   }
 }
+
 footer {
   .col:last-of-type {
     text-align: right;
@@ -36,10 +37,25 @@ footer {
 .example__section {
   background-color: white;
 }
+.how__section {
+  background-color: $black;
+  color: $white;
+  p  {
+    color: $white;
+  }
+  &_image {
+    background-image: url('/src/assets/img/how.webp');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100%;
+  }
+}
 
 footer,
 .header__section,
-.example__section {
+.example__section,
+.how__section {
   padding: 8rem 13%;
 }
 
@@ -48,7 +64,8 @@ footer,
     padding: 10rem 10%;
   }
   footer,
-  .example__section {
+  .example__section,
+  .how__section{
     padding: 4rem 2rem;
   }
 }
@@ -58,7 +75,8 @@ footer,
     padding: 20% 3%;
   }
   footer,
-  .example__section {
+  .example__section,
+  .how__section {
     padding: 3.5rem .5rem;
 
     .row {

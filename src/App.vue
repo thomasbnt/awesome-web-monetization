@@ -69,14 +69,27 @@
           </div>
         </div>
       </div>
-
-
     </section>
-    <section>
+    <section class="how__section">
+      <h3>How it works?</h3>
+      <p>On your webpage, integrate your monetization tag on meta :</p>
+      <pre>
+        <code><meta name='monetization' content='$ilp.example.com/123456789'></code>
+      </pre>
+      <p>And detect if monetization is possible, then work.</p>
+      <pre>
+        <code>if (document.monetization) {
+          document.monetization.addEventListener('monetizationstart', () => {
+          console.log("🎉 Awesome ! You use Web Monetization.\nMore information https://webmonetization.org")
+          })}
+        </code>
+      </pre>
+      <div class="how__section_image">
 
+      </div>
     </section>
   </div>
-  <mainFooter />
+  <mainFooter/>
 </template>
 <script>
 import mainFooter from './components/footer.vue'
