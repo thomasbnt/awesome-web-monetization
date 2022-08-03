@@ -68,7 +68,6 @@ export default {
 footer {
   user-select: none;
   padding: 4rem 3rem;
-  margin-top: 2rem;
   border-bottom: $primary 1rem solid;
 
   > .row {
