@@ -18,7 +18,7 @@
       <div class='row'>
         <div class='col'>
           <p>Current Monetization State: <span id='state'></span></p>
-          <pre id='container_of_script'></pre>
+          <pre id='container_of_script' class='scroll'></pre>
           <div id='error-no-monetization' class='error'>
             Note: In order to see any events here, you need to have an extension installed from a web monetization
             provider,
@@ -70,38 +70,44 @@
         </div>
       </div>
     </section>
-    <section class="how__section">
+    <section class='how__section'>
       <h3>How it works?</h3>
       <p>On your webpage, integrate your monetization tag on meta :</p>
-      <pre>
-        <code><meta name='monetization' content='$ilp.example.com/123456789'></code>
-      </pre>
+      <highlightjs class='selectAll' language='html' :code='exampleCodeMeta' />
       <p>And detect if monetization is possible, then work.</p>
-      <pre>
-        <code>if (document.monetization) {
-          document.monetization.addEventListener('monetizationstart', () => {
-          console.log("🎉 Awesome ! You use Web Monetization.\nMore information https://webmonetization.org")
-          })}
-        </code>
-      </pre>
-      <div class="how__section_image">
+      <highlightjs class='selectAll' language='JavaScript' :code='exampleCodeJavaScript' />
+      <div class='how__section_image'>
 
       </div>
     </section>
   </div>
-  <mainFooter/>
+  <mainFooter />
 </template>
 <script>
 import mainFooter from './components/footer.vue'
+// highlight.js
+import 'highlight.js/lib/common'
+import hljsVuePlugin from '@highlightjs/vue-plugin'
 
 export default {
   name: 'App',
   components: {
-    mainFooter
+    mainFooter,
+    highlight: hljsVuePlugin.component
+  },
+  data() {
+    return {
+      exampleCodeMeta: `<meta name='monetization' content='$ilp.example.com/123456789'>`,
+      exampleCodeJavaScript: `if (document.monetization) {
+  document.monetization.addEventListener('monetizationstart', () => {
+    console.log('🎉 Awesome ! You use Web Monetization. More information https://webmonetization.org')
+  })
+}`
+    }
   }
 }
 </script>
 <style lang='scss'>
+@import './assets/css/default.min.css';
 @import './assets/scss/main.scss';
-
 </style>

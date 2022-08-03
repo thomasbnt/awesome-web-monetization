@@ -121,9 +121,16 @@ li {
 
 pre {
   max-height: 35rem;
-  padding: 10px;
-  background-color: $primary;
-  overflow: scroll;
+
+  &.scroll {
+    background-color: $primary;
+    overflow: scroll;
+    padding: .8rem;
+  }
+
+  &.selectAll {
+    user-select: all;
+  }
 }
 
 @media (max-width: $medium_device) {
