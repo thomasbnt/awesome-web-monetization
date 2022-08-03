@@ -92,6 +92,7 @@
             Anyone can add a ressource, a plugin, script, post,
             extension, tool and more.
           </p>
+          <contributors/>
           <a class='btn-main' href='https://github.com/thomasbnt/awesome-web-monetization'>
             <i class='fa fa-github' aria-hidden='true'></i> Contribute on GitHub
           </a>
@@ -103,6 +104,7 @@
 </template>
 <script>
 import mainFooter from './components/footer.vue'
+import contributors from './components/contributors.vue'
 // highlight.js
 import 'highlight.js/lib/common'
 import hljsVuePlugin from '@highlightjs/vue-plugin'
@@ -111,9 +113,21 @@ export default {
   name: 'App',
   components: {
     mainFooter,
-    highlight: hljsVuePlugin.component
+    highlight: hljsVuePlugin.component,
+    contributors
   },
-  mounted: function() {
+  data() {
+    return {
+      git: [this.git],
+      exampleCodeMeta: `<meta name='monetization' content='$ilp.example.com/123456789'>`,
+      exampleCodeJavaScript: `if (document.monetization) {
+  document.monetization.addEventListener('monetizationstart', () => {
+    console.log('🎉 Awesome ! You use Web Monetization. More information https://webmonetization.org')
+  })
+}`
+    }
+  },
+  async mounted() {
     //  For the example, we'll use a button to toggle the monetization state.
     let monetizationStartEventOccurred = false
     if (window.location.protocol.indexOf('http') !== 0) {
@@ -193,16 +207,18 @@ export default {
     console.log('%cFollow me on GitHub : https://github.com/thomasbnt', cfcl)
     console.groupEnd()
 
-  },
-  data() {
-    return {
-      exampleCodeMeta: `<meta name='monetization' content='$ilp.example.com/123456789'>`,
-      exampleCodeJavaScript: `if (document.monetization) {
-  document.monetization.addEventListener('monetizationstart', () => {
-    console.log('🎉 Awesome ! You use Web Monetization. More information https://webmonetization.org')
-  })
-}`
-    }
+    await fetch(
+      `https://api.github.com/repos/thomasbnt/awesome-web-monetization`, {
+        headers: {
+          'accept': 'application/vnd.github+json',
+          'content-type': 'application/json',
+          'Authorization': import.meta.env.GITHUB_TOKEN
+        }
+      })
+      .then(async res => {
+        this.git = await res.json()
+      })
+      .catch(err => console.log(err))
   }
 }
 </script>
