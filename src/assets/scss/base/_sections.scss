@@ -37,26 +37,45 @@ footer {
 .example__section {
   background-color: white;
 }
+
 .how__section {
   background-color: $black;
   color: $white;
-  p  {
+
+  p {
+    padding: 1rem 0;
     color: $white;
   }
-  &_image {
-    background-image: url('/src/assets/img/how.webp');
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    height: 100%;
+}
+
+.contribute__section {
+  background-image: url('/src/assets/img/how.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100%;
+  color: white;
+  .btn-main {
+    margin-top: 4rem;
+  }
+  p {
+    user-select: none;
+    font-size: 1.7rem;
+    padding: .3rem 0;
   }
 }
 
 footer,
 .header__section,
 .example__section,
-.how__section {
+.how__section,
+.contribute__section {
   padding: 8rem 13%;
+
+  > .row {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
 }
 
 @media (max-width: $large_device) {
@@ -65,7 +84,7 @@ footer,
   }
   footer,
   .example__section,
-  .how__section{
+  .how__section {
     padding: 4rem 2rem;
   }
 }
