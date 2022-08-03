@@ -125,7 +125,10 @@ pre {
   &.scroll {
     background-color: $primary;
     overflow: scroll;
+    scroll-behavior: smooth;
     padding: .8rem;
+    display: flex;
+    flex-direction: column-reverse;
   }
 
   &.selectAll {
