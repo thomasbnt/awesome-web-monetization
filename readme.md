@@ -154,7 +154,7 @@ _Any packages/modules and plugins_
 
 ### Community
 
-- [Web Monetization Community Space](https://community.webmonetization.org/)
+- [Web Monetization Community](https://community.interledger.org/)
 - [@GrantForTheWeb on Twitter](https://twitter.com/GrantForTheWeb)
 - [@Coil on Twitter](https://twitter.com/Coil)
 - [@CinnamonVideo on Twitter](https://twitter.com/CinnamonVideo)
