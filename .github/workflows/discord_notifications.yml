@@ -13,4 +13,4 @@ jobs:
         with:
           id: ${{ secrets.DISCORD_WEBHOOK_ID }}
           token: ${{ secrets.DISCORD_WEBHOOK_TOKEN }}
-          in_thread: "${{ secrets.DISCORD_INTHREAD }}"
+          in_thread: ${{ secrets.DISCORD_INTHREAD }}
