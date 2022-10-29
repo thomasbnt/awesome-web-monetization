@@ -133,6 +133,12 @@ _Any packages/modules and plugins_
 
 - [Is web monetized](https://github.com/jkga/is-web-monetized) - A very simple tool for checking if Web Monetization is enabled.
 
+  > ```bash
+  > npm install is-web-monetized -g
+  > monetized example.com 
+  > ```
+  > You can also test your website [with the dependency](https://github.com/jkga/is-web-monetized#usage).
+
 - [Paytrackr](https://github.com/sorxrob/paytrackr) - Track and manage your micropayments into one place.
 
   > PayTrackr is the easiest and safest way to track and manage your micropayments to web monetized websites, having a web monetization provider membership.
