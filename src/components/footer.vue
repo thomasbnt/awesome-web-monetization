@@ -9,9 +9,7 @@
         <p class='powered'><i class='fa fa-flash powered_icon'></i>Powered by
           <a href='https://www.netlify.com/' target='_blank' rel='noopener noreferrer'>Netlify</a>
           and
-          <a href='https://vuejs.org/' target='_blank' rel='noopener noreferrer'>VueJS</a>
-          with
-          <a href='https://vitejs.dev/' target='_blank' rel='noopener noreferrer'>Vite</a>.
+          <a href='https://vuejs.org/' target='_blank' rel='noopener noreferrer'>VueJS</a>.
         </p>
         <p>
           <a href='https://github.com/thomasbnt/awesome-web-monetization/blob/main/LICENSE'
