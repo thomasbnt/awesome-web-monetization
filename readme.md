@@ -33,7 +33,6 @@ This is a JavaScript browser API that allows the creation of a payment stream fr
 ---
 
 - [Interledger : Open protocol suite for sending payments across different ledgers](https://interledger.org/)
-- [Coil : Web monetized content in your browser while supporting sites you love in real time.](https://coil.com)
 
 ## How to start monetize my website
 
@@ -44,7 +43,7 @@ If you would like to monetize your content, you must have a Wallet and Provider 
   
 ---
   
-  
+
 | **Wallets** |                                  |                                                         |                                              |                                                      |
 | :---------: | :------------------------------: | :-----------------------------------------------------: | :------------------------------------------: | :--------------------------------------------------: |
 |    Name     | [![Uphold](https://webmonetization.org/img/uphold_logo.svg)](https://uphold.com/) |           [![GateHub](https://webmonetization.org/img/gatehub_logo.svg)](https://gatehub.net/)           | [![Stronghold](https://webmonetization.org/img/stronghold_logo.svg)](https://stronghold.co/real-time-payments#coil) | [New Wallet ?<br>Create a issue !](https://github.com/thomasbnt/awesome-web-monetization/issues/new?assignees=thomasbnt&labels=Wallet%2C+%E2%86%94+WM+repository&template=new-wallet.md&title=%5BWa%5D) |
@@ -54,7 +53,7 @@ If you are use already XRP Tipbot, [check here to migrate on Uphold](https://web
 
 | **Payments** |                                                                                   |
 | ------------ |   --------------------------------------------------------------------------      |
-| Name         | [![Coil](https://webmonetization.org/img/coil_logo.svg)](https://coil.com/signup) |
+| Name         | Empty. |
 
 ---
 </p>
@@ -137,6 +136,7 @@ _Any packages/modules and plugins_
   > npm install is-web-monetized -g
   > monetized example.com 
   > ```
+  >
   > You can also test your website [with the dependency](https://github.com/jkga/is-web-monetized#usage).
 
 - [Paytrackr](https://github.com/sorxrob/paytrackr) - Track and manage your micropayments into one place.
@@ -175,13 +175,13 @@ You can also contribute to share this repository and Web Monetization with your 
 
 If you want add a new small icon, the height must be **16px**. Put in `assets/small_icons/NAME.png`. Format PNG only accepted.
 
-## Donate 
+## Donate
+
 Feel free to help [me](https://github.com/thomasbnt) for the maintenance of this project !
 Thanks to all **Sponsors on GitHub** !
 
 [![Github Sponsors](https://cdn.jsdelivr.net/gh/thomasbnt/sponsors/sponsors.svg)](https://github.com/sponsors/thomasbnt)
 
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor%20me-%23EA54AE.svg?&style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/thomasbnt) [![Support me on Buy Me a Coffee](https://img.shields.io/badge/Support%20me-on%20Buy%20Me%20a%20Coffee-white?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&labelColor=%23FFDD00)](https://www.buymeacoffee.com/thomasbnt?via=thomasbnt)
-
 
 [![Deploys by Netlify](https://www.netlify.com/img/global/badges/netlify-dark.svg)](https://netlify.com)
