@@ -42,20 +42,21 @@ If you would like to monetize your content, you must have a Wallet and Provider 
 <p>
   
 ---
-  
 
-| **Wallets** |                                  |                                                         |                                              |                                                      |
-| :---------: | :------------------------------: | :-----------------------------------------------------: | :------------------------------------------: | :--------------------------------------------------: |
-|    Name     | [![Uphold](https://webmonetization.org/img/uphold_logo.svg)](https://uphold.com/) |           [![GateHub](https://webmonetization.org/img/gatehub_logo.svg)](https://gatehub.net/)           | [![Stronghold](https://webmonetization.org/img/stronghold_logo.svg)](https://stronghold.co/real-time-payments#coil) | [New Wallet ?<br>Create a issue !](https://github.com/thomasbnt/awesome-web-monetization/issues/new?assignees=thomasbnt&labels=Wallet%2C+%E2%86%94+WM+repository&template=new-wallet.md&title=%5BWa%5D) |
-|    Fees     |               None               | SEPA: 1.00 EUR < 50,000 EUR<br>Wire: $15 min ($150 max) |              \$3 withdrawal fee              |                                                      |
-  
+
+| **Wallets** |                                                                                   |                                                                                      |                                                                                                                     |                                                                                                                                                                                                         |
+| :---------: | :-------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|    Name     | [![Uphold](https://webmonetization.org/img/uphold_logo.svg)](https://uphold.com/) | [![GateHub](https://webmonetization.org/img/gatehub_logo.svg)](https://gatehub.net/) | [![Stronghold](https://webmonetization.org/img/stronghold_logo.svg)](https://stronghold.co/real-time-payments#coil) | [New Wallet ?<br>Create a issue !](https://github.com/thomasbnt/awesome-web-monetization/issues/new?assignees=thomasbnt&labels=Wallet%2C+%E2%86%94+WM+repository&template=new-wallet.md&title=%5BWa%5D) |
+|    Fees     |                                       None                                        |               SEPA: 1.00 EUR < 50,000 EUR<br>Wire: $15 min ($150 max)                |                                                 \$3 withdrawal fee                                                  |                                                                                                                                                                                                         |
+
 If you are use already XRP Tipbot, [check here to migrate on Uphold](https://webmonetization.org/docs/xrptipbot).
 
-| **Payments** |                                                                                   |
-| ------------ |   --------------------------------------------------------------------------      |
+| **Payments** |        |
+| ------------ | ------ |
 | Name         | Empty. |
 
 ---
+
 </p>
 </details>
 
@@ -104,7 +105,7 @@ _Any packages/modules and plugins_
 - [web-monetization-electron-app](https://github.com/Jasmin2895/web-monetization-electron-app) - Project demonstrate basic setup to enable web monetization in Electron App. ![](assets/small_icons/electron.png)
 - [web-monetized-video](https://github.com/Jasmin2895/web-monetized-video) - A web component with has play and pay policy and charges you for the amount of video watched. ![](assets/small_icons/javascript.png)
 - [web-monetization-polyfill](https://github.com/immers-space/web-monetization-polyfill/) - Ensure the JavaScript Web Monetization API is available, even in environments with Content Security Policies enabled. ![](assets/small_icons/javascript.png)
-- [web-monetization-video-ads]( https://www.npmjs.com/package/web-monetization-video-ads) - Linking Web Monetization with video advertising to allow a freemium business model to be implemented for Web Monetization. ![](assets/small_icons/javascript.png)
+- [web-monetization-video-ads](https://www.npmjs.com/package/web-monetization-video-ads) - Linking Web Monetization with video advertising to allow a freemium business model to be implemented for Web Monetization. ![](assets/small_icons/javascript.png)
 - [web-monetization-revenue-share](https://www.npmjs.com/package/web-monetization-revenue-share) - Automated redistribution of funds to a community via smart contracts. ![](assets/small_icons/javascript.png)
 - [awesome-jsgames](https://github.com/proyecto26/awesome-jsgames) - A curated list of awesome JavaScript Games ![](assets/small_icons/javascript.png)
 - [mediadisclosures](https://github.com/oofdere/mediadisclosures) - An open-source, always evolving, universal content rating system. ![](assets/small_icons/javascript.png)
@@ -134,7 +135,7 @@ _Any packages/modules and plugins_
 
   > ```bash
   > npm install is-web-monetized -g
-  > monetized example.com 
+  > monetized example.com
   > ```
   >
   > You can also test your website [with the dependency](https://github.com/jkga/is-web-monetized#usage).
