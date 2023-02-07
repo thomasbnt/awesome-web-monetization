@@ -40,7 +40,7 @@ If you would like to monetize your content, you must have a Wallet and Provider 
 
 <details><summary>More details about Wallet and Provider account</summary>
 <p>
-  
+
 ---
 
 
