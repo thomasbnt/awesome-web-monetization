@@ -45,7 +45,7 @@ If you would like to monetize your content, you must have a Wallet and Provider 
 
 | **Wallets** |                                                                                   |                                                                                      |                                                                                                                     |                                                                                                                                                                                                         |
 | :---------: | :-------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|    Name     | [![Uphold](https://webmonetization.org/img/uphold_logo.svg)](https://uphold.com/) | [![GateHub](https://webmonetization.org/img/gatehub_logo.svg)](https://gatehub.net/) | [![Stronghold](https://webmonetization.org/img/stronghold_logo.svg)](https://stronghold.co/real-time-payments#coil) | [New Wallet ?<br>Create a issue !](https://github.com/thomasbnt/awesome-web-monetization/issues/new?assignees=thomasbnt&labels=Wallet%2C+%E2%86%94+WM+repository&template=new-wallet.md&title=%5BWa%5D) |
+|    Name     | [![Uphold](https://webmonetization.org/img/uphold_logo.svg)](https://uphold.com/) | [![GateHub](https://webmonetization.org/img/gatehub_logo.svg)](https://gatehub.net/) | [![Stronghold](https://webmonetization.org/img/stronghold_logo.svg)](https://stronghold.co/real-time-payments) | [New Wallet ?<br>Create a issue !](https://github.com/thomasbnt/awesome-web-monetization/issues/new?assignees=thomasbnt&labels=Wallet%2C+%E2%86%94+WM+repository&template=new-wallet.md&title=%5BWa%5D) |
 |    Fees     |                                       None                                        |               SEPA: 1.00 EUR < 50,000 EUR<br>Wire: $15 min ($150 max)                |                                                 \$3 withdrawal fee                                                  |                                                                                                                                                                                                         |
 
 If you are use already XRP Tipbot, [check here to migrate on Uphold](https://webmonetization.org/docs/xrptipbot).
@@ -162,7 +162,6 @@ _Any packages/modules and plugins_
 
 - [Web Monetization Community](https://community.interledger.org/)
 - [@GrantForTheWeb on Twitter](https://twitter.com/GrantForTheWeb)
-- [@Coil on Twitter](https://twitter.com/Coil)
 - [@CinnamonVideo on Twitter](https://twitter.com/CinnamonVideo)
 - [Web Monetization tag on DEV](https://dev.to/t/webmonetization)
 
