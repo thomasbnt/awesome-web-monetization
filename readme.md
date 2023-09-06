@@ -46,7 +46,7 @@ If you would like to monetize your content, you must have a Wallet and Provider 
 | **Wallets** |                                                                                             |                                                                                                                                                                                                         |     |
 | :---------: | :-----------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-: |
 |    Name     | [![GateHub](https://webmonetization.org/img/logo-wallet-gatehub.svg)](https://gatehub.net/) | [New Wallet ?<br>Create a issue !](https://github.com/thomasbnt/awesome-web-monetization/issues/new?assignees=thomasbnt&labels=Wallet%2C+%E2%86%94+WM+repository&template=new-wallet.md&title=%5BWa%5D) |
-|    Fees     |                   SEPA: 1.00 EUR < 50,000 EUR<br>Wire: $15 min ($150 max)                  |     |
+|    Fees     |                   SEPA: 1.00 EUR < 50,000 EUR<br>Wire: $15 min ($150 max)                   |                                                                                                                                                                                                         |
 
 | **Payments** |        |
 | ------------ | ------ |
@@ -69,7 +69,7 @@ and detect if `monetization` is possible, then work
 if (document.monetization) {
   document.monetization.addEventListener("monetizationstart", () => {
     console.log(
-      "🎉 Awesome ! You use Web Monetization.\nMore information https://webmonetization.org"
+      "🎉 Awesome ! You use Web Monetization.\nMore information https://webmonetization.org",
     );
   });
 }
