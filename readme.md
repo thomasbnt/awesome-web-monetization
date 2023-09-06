@@ -43,11 +43,10 @@ If you would like to monetize your content, you must have a Wallet and Provider 
 
 ---
 
-| **Wallets** |                                                                                      |                                                                                                                |                                                                                                                                                                                                         |
-| :---------: | :----------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|    Name     | [![GateHub](https://webmonetization.org/img/gatehub_logo.svg)](https://gatehub.net/) | [![Stronghold](https://webmonetization.org/img/stronghold_logo.svg)](https://stronghold.co/real-time-payments) | [New Wallet ?<br>Create a issue !](https://github.com/thomasbnt/awesome-web-monetization/issues/new?assignees=thomasbnt&labels=Wallet%2C+%E2%86%94+WM+repository&template=new-wallet.md&title=%5BWa%5D) |
-|    Fees     |               SEPA: 1.00 EUR < 50,000 EUR<br>Wire: $15 min ($150 max)                |                                               \$3 withdrawal fee                                               |                                                                                                                                                                                                         |
-
+| **Wallets** |                                                                                             |                                                                                                                                                                                                         |     |
+| :---------: | :-----------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-: |
+|    Name     | [![GateHub](https://webmonetization.org/img/logo-wallet-gatehub.svg)](https://gatehub.net/) | [New Wallet ?<br>Create a issue !](https://github.com/thomasbnt/awesome-web-monetization/issues/new?assignees=thomasbnt&labels=Wallet%2C+%E2%86%94+WM+repository&template=new-wallet.md&title=%5BWa%5D) |
+|    Fees     |                   SEPA: 1.00 EUR < 50,000 EUR<br>Wire: $15 min ($150 max)                  |     |
 
 | **Payments** |        |
 | ------------ | ------ |
