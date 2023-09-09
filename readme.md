@@ -126,7 +126,7 @@ _Any packages/modules and plugins_
 
 ### Tools
 
-- [Probabilistic Revshare Generator - Web Monetization](https://webmonetization.org/prob-revshare/) - Probabilistic revenue sharing (revshare) is one way to share a portion of a web monetized page’s earnings between multiple payment pointers.
+- [Probabilistic Revshare Generator - Web Monetization](https://webmonetization.org/prob-revshare/) - Probabilistic revenue sharing (revshare) is one way to share a portion of a web monetized pages earnings between multiple payment pointers.
 
   > Use this tool to define a list of payment pointers and their weights. 
   > Then, add the generated monetization link element to your site. 
