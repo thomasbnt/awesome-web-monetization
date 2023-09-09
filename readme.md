@@ -142,7 +142,7 @@ _Any packages/modules and plugins_
   >
   > You can also test your website [with the dependency](https://github.com/jkga/is-web-monetized#usage).
 
-- [Paytrackr](https://github.com/thomasbnt/paytrackr) (Forked from [wobsoriano/paytrackr](https://github.com/wobsoriano)) - Track and manage your micropayments into one place.
+- [Paytrackr](https://github.com/thomasbnt/paytrackr) - (Forked from [wobsoriano/paytrackr](https://github.com/wobsoriano)) - Track and manage your micropayments into one place.
 
   > PayTrackr is the easiest and safest way to track and manage your micropayments to web monetized websites, having a web monetization provider membership.
 
