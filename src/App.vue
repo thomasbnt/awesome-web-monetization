@@ -21,10 +21,7 @@
           <pre id='container_of_script' class='scroll'></pre>
           <div id='error-no-monetization' class='error'>
             Note: In order to see any events here, you need to have an extension installed from a web monetization
-            provider,
-            like <a href='https://coil.com'>coil.com</a>.
-            (<a href='https://chrome.google.com/webstore/detail/coil/locbifcbeldmnphbgkdigjmkbfkhbnca'>Chrome</a>
-            or <a href='https://addons.mozilla.org/en-US/firefox/addon/coil/'>Firefox</a>)
+            provider.
           </div>
           <div id='error-wrong-protocol' class='error'>
             Error: This demo must be
@@ -33,9 +30,7 @@
           </div>
           <div id='error-timeout' class='error'>
             <p>Warning: No monetization events occurred after six seconds.
-              This probably indicates that you have a web monetization extension, but no active account.
-              Get one at <a href='https://coil.com'
-                            rel='noopener noreferrer' target='_blank'>coil.com</a>.</p>
+              This probably indicates that you have a web monetization extension, but no active account.</p>
           </div>
           <small>This script is from
             <a href='https://testwebmonetization.com/' rel='noopener noreferrer'

@@ -36,14 +36,14 @@
           </li>
           <li>
             <a
-              href='https://webmonetization.org/specification.html?utm_source=awesome-web-monetization&utm_medium=website&utm_campaign=direct-link'
+              href='https://webmonetization.org/specification?utm_source=awesome-web-monetization&utm_medium=website&utm_campaign=direct-link'
               target='_blank' rel='noopener noreferrer'>
               Specification
             </a>
           </li>
           <li>
             <a
-              href='https://webmonetization.org/docs/getting-started?utm_source=awesome-web-monetization&utm_medium=website&utm_campaign=direct-link'
+              href='https://webmonetization.org/docs/guides/monetize-page/?utm_source=awesome-web-monetization&utm_medium=website&utm_campaign=direct-link'
               target='_blank' rel='noopener noreferrer'>
               Getting Started
             </a>

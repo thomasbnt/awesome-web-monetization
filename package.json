@@ -4,16 +4,16 @@
   "scripts": {
     "dev": "vite --host && sass --watch src/scss:dist/css",
     "build": "vite build",
-    "preview": "vite preview --port 5050"
+    "preview": "vite preview --port 5050 --host"
   },
   "dependencies": {
     "@highlightjs/vue-plugin": "^2.1.0",
-    "highlight.js": "^11.6.0",
-    "vue": "^3.2.31"
+    "highlight.js": "^11.8.0",
+    "vue": "^3.3.4"
   },
   "devDependencies": {
-    "@vitejs/plugin-vue": "^2.2.2",
-    "sass": "^1.49.9",
-    "vite": "^2.8.4"
+    "@vitejs/plugin-vue": "^4.3.4",
+    "sass": "^1.66.1",
+    "vite": "4.4.9"
   }
 }
