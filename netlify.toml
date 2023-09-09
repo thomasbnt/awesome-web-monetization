@@ -1,8 +1,3 @@
-[[redirects]]
-from = "https://master--thomasbnt.netlify.app/"
-to = "https://awesomewebmonetization.netlify.app/"
-status = 301
-force = true
 [[headers]]
   for = "/*"
   [headers.values]
