@@ -18,6 +18,7 @@ This is a JavaScript browser API that allows the creation of a payment stream fr
   - [Newsletters](#newsletters)
   - [Tools](#tools)
   - [Community](#community)
+- [Contribute](#contribute)
 - [Donate](#donate)
 
 ## About Web Monetization
@@ -44,12 +45,12 @@ If you would like to monetize your content, you must have a Wallet and Provider 
 ---
 
 | **Wallets** |                                                                                             |                                                                                                                                                                                                         |     |
-| :---------: | :-----------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-: |
+|:-----------:|:-------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---:|
 |    Name     | [![GateHub](https://webmonetization.org/img/logo-wallet-gatehub.svg)](https://gatehub.net/) | [New Wallet ?<br>Create a issue !](https://github.com/thomasbnt/awesome-web-monetization/issues/new?assignees=thomasbnt&labels=Wallet%2C+%E2%86%94+WM+repository&template=new-wallet.md&title=%5BWa%5D) |
 |    Fees     |                   SEPA: 1.00 EUR < 50,000 EUR<br>Wire: $15 min ($150 max)                   |                                                                                                                                                                                                         |
 
 | **Payments** |        |
-| ------------ | ------ |
+|--------------|--------|
 | Name         | Empty. |
 
 ---
@@ -60,7 +61,7 @@ If you would like to monetize your content, you must have a Wallet and Provider 
 On your webpage, integrate your `monetization` tag on meta
 
 ```html
-<meta name="monetization" content="$ilp.example.com/123456789" />
+<link rel="monetization" href="https://ilp.example.com/alice">
 ```
 
 and detect if `monetization` is possible, then work
@@ -140,7 +141,7 @@ _Any packages/modules and plugins_
   > monetized example.com
   > ```
   >
-  > You can also test your website [with the dependency](https://github.com/jkga/is-web-monetized#usage).
+  > You can also test your website with the dependency.
 
 - [Paytrackr](https://github.com/thomasbnt/paytrackr) - (Forked from [wobsoriano/paytrackr](https://github.com/wobsoriano)) - Track and manage your micropayments into one place.
 
@@ -187,6 +188,6 @@ Netlify powering [the website](https://awesomewebmonetization.netlify.app/). Tha
 Feel free to help [me](https://github.com/thomasbnt) for the maintenance of this project !
 Thanks to all **Sponsors on GitHub** !
 
-[![GitHub Sponsors](https://cdn.jsdelivr.net/gh/thomasbnt/sponsors/sponsors.svg)](https://github.com/sponsors/thomasbnt)
+![GitHub Sponsors](https://cdn.jsdelivr.net/gh/thomasbnt/sponsors/sponsors.svg)
 
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor%20me-%23EA54AE.svg?&style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/thomasbnt) [![Support me on Buy Me a Coffee](https://img.shields.io/badge/Support%20me-on%20Buy%20Me%20a%20Coffee-white?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&labelColor=%23FFDD00)](https://www.buymeacoffee.com/thomasbnt?via=thomasbnt)
