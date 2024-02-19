@@ -80,13 +80,13 @@
     <div class='contribute__section'>
       <div class='row'>
         <div class='col'>
-          <p>
+          <h2>
             Contribute to the project.
-          </p>
-          <p>
+          </h2>
+          <h3>
             Anyone can add a ressource, a plugin, script, post,
             extension, tool and more.
-          </p>
+          </h3>
           <contributors/>
           <a class='btn-main' href='https://github.com/thomasbnt/awesome-web-monetization'>
             <i class='fa fa-github' aria-hidden='true'></i> Contribute on GitHub
