@@ -33,8 +33,8 @@
               This probably indicates that you have a web monetization extension, but no active account.</p>
           </div>
           <small>This script is from
-            <a href='https://testwebmonetization.com/' rel='noopener noreferrer'
-               target='_blank'>testwebmonetization.com</a>
+            <a href='https://github.com/TheRoccoB/testwebmonetization' rel='noopener noreferrer'
+               target='_blank'>TheRoccoB/testwebmonetization</a>
           </small>
         </div>
         <div class='col'>
