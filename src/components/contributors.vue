@@ -7,7 +7,6 @@
       </div>
     </div>
   </div>
-
 </template>
 
 <script>
@@ -21,7 +20,7 @@ export default {
   },
   async mounted() {
     await fetch(
-      `https://api.github.com/repos/thomasbnt/awesome-web-monetization/contributors?per_page=15`, {
+      `https://api.github.com/repos/thomasbnt/awesome-web-monetization/contributors?per_page=30`, {
         headers: {
           'accept': 'application/vnd.github+json',
           'content-type': 'application/json',
@@ -29,10 +28,12 @@ export default {
         }
       })
       .then(async res => {
-        this.gitContributors = await res.json()
+        const contributors = await res.json()
+        // if the contributor is a bot from type: "Bot", remove it from the list
+        this.gitContributors = contributors.filter(contributor => contributor.type !== 'Bot')
+        // And remove "thomasbnt" from the list
+        this.gitContributors = this.gitContributors.filter(contributor => contributor.login !== 'restyled-commits')
         this.totalContrib = this.gitContributors.length
-        console.log({ totalContrib: this.totalContrib })
-        console.log({ x: this.gitContributors })
       })
       .catch(err => console.log(err))
   }
