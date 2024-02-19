@@ -69,8 +69,8 @@
       <div class='row'>
         <div class='col'>
           <h3>How it works?</h3>
-          <p>On your webpage, integrate your monetization tag on meta :</p>
-          <highlightjs class='selectAll' language='html' :code='exampleCodeMeta' />
+          <p>On your webpage, integrate your monetization tag on link :</p>
+          <highlightjs class='selectAll' language='html' :code='exampleCodeLink' />
           <p>And detect if monetization is possible, then work.</p>
           <highlightjs class='selectAll' language='JavaScript' :code='exampleCodeJavaScript' />
         </div>
@@ -114,7 +114,7 @@ export default {
   data() {
     return {
       git: [this.git],
-      exampleCodeMeta: `<meta name='monetization' content='$ilp.example.com/123456789'>`,
+      exampleCodeLink: `<link rel="monetization" href="https://ilp.example.com/alice">`,
       exampleCodeJavaScript: `if (document.monetization) {
   document.monetization.addEventListener('monetizationstart', () => {
     console.log('🎉 Awesome ! You use Web Monetization. More information https://webmonetization.org')
