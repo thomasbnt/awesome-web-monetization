@@ -1,0 +1,9 @@
+organization: awesomewebmonetization
+defaultSticker:
+stickers:
+  -
+    id: # sticker id
+    alias: # shorthand-string
+  -
+    id:
+    alias:
