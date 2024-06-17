@@ -1,9 +1,5 @@
 organization: awesomewebmonetization
-defaultSticker:
+defaultSticker: clxj95wz2119610cl1kgpl56rl
 stickers:
-  -
-    id: # sticker id
-    alias: # shorthand-string
-  -
-    id:
-    alias:
+  - id: clxj95wz2119610cl1kgpl56rl
+    alias: contributor-badge
