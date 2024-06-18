@@ -4,7 +4,7 @@
       <div class='row'>
         <div class='col'>
           <div class='title'>
-            <img src='/src/assets/img/wm_small_icon_animated.svg' alt='Web Monetization logo' width='100' height='100'>
+            <img src='/src/assets/img/awesome-web-monetization-logo.svg' alt='Awesome Web Monetization logo' width='100' height='100'>
             <h1>Awesome Web Monetization</h1>
           </div>
           <h2>Stuffs about Web Monetization. Packages, articles, documentation links and others tools.</h2>
