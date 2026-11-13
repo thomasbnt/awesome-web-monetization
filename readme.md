@@ -108,6 +108,7 @@ _Any packages/modules and plugins_
 - [mediadisclosures](https://github.com/oofdere/mediadisclosures) - An open-source, always evolving, universal content rating system. ![](assets/small_icons/javascript.png)
 - [web-monetization-demo](https://github.com/peter279k/web-monetization-demo) - This is a Web Monetization Demo ![](assets/small_icons/javascript.png)
 - [money-chat](https://github.com/dfoderick/money-chat) - Web Monetization chat app ![](assets/small_icons/javascript.png)
+- [@josealbertomaquina/usdc-paywall](https://www.npmjs.com/package/@josealbertomaquina/usdc-paywall) - HTTP 402 paywall middleware to monetize any Node.js API with per-call USDC payments on Base. ![](assets/small_icons/javascript.png)
 
 ### Tutorials
 
